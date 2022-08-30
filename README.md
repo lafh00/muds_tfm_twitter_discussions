@@ -11,5 +11,5 @@ Datos de tweets que han utilizado las URLs para corregir a otros usuarios. Se in
 ### data_timelines
 Historial de tweets de usuarios difusores de noticias falsas, correspondientes al periodo comprendido entre los 14 días antes y después de la corrección. En el campo grupo se indica si es que el tweet se realizó antes o después de la corrección.
 
-### data_timelines
+### data_timelines_nlp
 El historial de tweets de los usuarios difusores, con las variables obtenidas mediante NLP (MFD y Sentiment)
