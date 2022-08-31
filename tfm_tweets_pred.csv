@@ -1,0 +1,840 @@
+|id_noticia|rep_id_tweet|rep_tweet_text|rep_user_id|rep_created_at|rep_text|rep_like_count|rep_rt_count|fn_user_id|fn_created_at|fn_id_tuit|fn_text|fn_like_count|fn_rt_count|rep_sentiment_roberta|rep_sent_negativity|rep_sent_neutrality|rep_sent_positivity|care_p|fairness_p|loyalty_p|authority_p|sanctity_p|care_sent|fairness_sent|loyalty_sent|authority_sent|sanctity_sent|moral_nonmoral_ratio|f_var|sent_var|utilidad
+9|4020|1539647813780246528|"@SadimLopez ""the man was arrested for breaching coronavirus restrictions""
+https://t.co/al0Ti1224D"|1479530650390700033|2022-06-22T16:33:38.000Z|"@SadimLopez ""the man was arrested for breaching coronavirus restrictions""
+https://t.co/al0Ti1224D"|0|0|964604464127594496|2022-06-19 18:54:33+00:00|1538596112633839616|Acá en México Borolas diría que la Ley es la Ley. https://t.co/uWczZfYR3W|7|5|[0.51497865, 0.46978483, 0.015236506]|0.51497865|0.46978483|0.015236506|0.1362399505256647|0.1323723155759235|0.0930820304879747|0.129340801378716|0.1116073561022211|-0.355425734126984|-0.1980394444444444|-0.2263410606060607|-0.2362838194444444|-0.2697845679012345|0.75|0.0003244194494313|0.0036740987833843|no eficaz
+15|866|1539249950260961281|@madeinusaonly @DocJon01 @mchooyah https://t.co/1qK1j3tm6W     What kind of doctor said this to you?  Besides the fact he is Asian!|1456981907380609030|2022-06-21T14:12:40.000Z|@madeinusaonly @DocJon01 @mchooyah https://t.co/1qK1j3tm6W     What kind of doctor said this to you?  Besides the fact he is Asian!|1|0|1903073834|2022-06-21 04:38:26+00:00|1539105437068496898|@KDSmith39 @DocJon01 @mchooyah I live in Florida.  I left my house every day and travelled every day.  Never got vaccinated.  Got covid as a cold for a coupe days.  Big Deal.  But then I have a 23 BMI as my Asian MD in Boston said no worries for people not overweight, no need for vaccine either.|4|0|[0.7111584, 0.27450496, 0.01433661]|0.7111584|0.27450496|0.01433661|0.0984426638427631|0.1265402020477364|0.0595352220980899|0.0706568906488548|0.0866999727553573|-0.1477805997469832|0.0009604878917379|0.1214033596096096|0.0541705613652868|0.108094356060606|0.8|0.0006766026018189|0.0118630398478038|eficaz
+16|4627|1539263316970774528|"@TheresaA113 @MdBreathe @TexasLindsay @GVDBossche ADE and immune escape do not occur after mRNA vaccination. Your propaganda source is misleading.
+
+https://t.co/OVdR4ELAn3"|1510346952394768384|2022-06-21T15:05:47.000Z|"@TheresaA113 @MdBreathe @TexasLindsay @GVDBossche ADE and immune escape do not occur after mRNA vaccination. Your propaganda source is misleading.
+
+https://t.co/OVdR4ELAn3"|0|0|1136830393510838272|2022-06-21 05:44:14+00:00|1539121999183740929|@FredBeamer3 @MdBreathe @TexasLindsay Oh, Fred, bless your heart. You believe the propaganda, evidently. Well, please go read up on ADE and immune escape @GVDBossche|1|0|[0.73940134, 0.24481714, 0.015781384]|0.73940134|0.24481714|0.015781384|0.1070712317303669|0.1318946367454734|0.0863892920496693|0.1380329909741674|0.1073045444961953|-0.3099670995670995|-0.252320202020202|-0.0898296296296296|-0.2770482539682539|-0.2520627777777778|0.2727272727272727|0.0004382237153811|0.0072614820979333|no eficaz
+17|4371|1539164733881798657|@HeatherraeBarr2 @LanreFalusi https://t.co/LCVHbSssRo|1350869709600616448|2022-06-21T08:34:03.000Z|@HeatherraeBarr2 @LanreFalusi https://t.co/LCVHbSssRo|1|0|4922139842|2022-06-21 06:04:41+00:00|1539127143157972992|@LanreFalusi Please for your children sake read the Vaers Report first it's public knowledge.|2|0|[0.17743011, 0.61030036, 0.21226953]|0.17743011|0.61030036|0.21226953|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|eficaz
+21|435|1540891180963184640|"@deenieshats @MarcusBlimi A 10 second search will show this story is fake. You people are ridiculous.
+https://t.co/HoCEi2Hb1E"|1282752262297853952|2022-06-26T02:54:20.000Z|"@deenieshats @MarcusBlimi A 10 second search will show this story is fake. You people are ridiculous.
+https://t.co/HoCEi2Hb1E"|1|0|756522649476591616|2022-06-21 12:26:46+00:00|1539223299250876417|"@MarcusBlimi https://t.co/ALabd2bHLO 
+
+Also, are you aware that in Scotland, there's a threshold of dead babies that if it's crossed, triggers an investigation. Hasn't happened in decades, but happened TWICE since the vax rollout."|1|1|[0.94525987, 0.04965165, 0.0050884485]|0.94525987|0.04965165|0.0050884485|0.1214160624253355|0.1523745640025384|0.0885242332505908|0.090202567979927|0.0937617053174384|-0.2681702228327229|-0.1501489186355692|-0.1580489439324116|-0.1466164210893855|-0.0509342436974789|1.0|0.000759997567921|0.0059350151488625|no eficaz
+22|866|1539250051976937474|@No_Regerts5 @atheistcritique @madeinusaonly @DocJon01 @mchooyah https://t.co/1qK1j3tm6W|1456981907380609030|2022-06-21T14:13:04.000Z|@No_Regerts5 @atheistcritique @madeinusaonly @DocJon01 @mchooyah https://t.co/1qK1j3tm6W|0|0|1378124064246558721|2022-06-21 13:41:23+00:00|1539242074742079488|@atheistcritique @madeinusaonly @KDSmith39 @DocJon01 @mchooyah I'm not from Florida but I can look at numbers. One of the highest populations with the highest percentage of people most at risk of covid and nowhere near the top of any covid death lists.|1|0|[0.14979619, 0.66813374, 0.18207002]|0.14979619|0.66813374|0.18207002|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|eficaz
+35|866|1539650583459930112|@RealtorStan_CO @_gjallerhorn @daniels90281353 @Lunnaris01 @jordanbpeterson https://t.co/eHDB3K8byj. Desantis/Florida misrepresenting numbers.|1452089595953356802|2022-06-22T16:44:39.000Z|@RealtorStan_CO @_gjallerhorn @daniels90281353 @Lunnaris01 @jordanbpeterson https://t.co/eHDB3K8byj. Desantis/Florida misrepresenting numbers.|0|0|1519441883667312642|2022-06-22 13:08:29+00:00|1539596186327388160|@_gjallerhorn @daniels90281353 @Lunnaris01 @jordanbpeterson You don’t honestly believe that do you?|2|0|[0.60231966, 0.38218197, 0.015498283]|0.60231966|0.38218197|0.015498283|0.0615384615384615|0.0754716981132075|0.0377358490566037|0.0448717948717948|0.064516129032258|-0.32665|0.026775|-0.2109333333333333|-0.1545428571428571|-0.2821125|0.1111111111111111|0.0002340860791522|0.0189608656580215|no eficaz
+37|1575|1539618080766283779|"@SeaCrider @JeromeAdamsMD @jldbaker https://t.co/LDJjtituOq
+I always do- and this crap was refuted a long time ago"|950068358631837696|2022-06-22T14:35:29.000Z|"@SeaCrider @JeromeAdamsMD @jldbaker https://t.co/LDJjtituOq
+I always do- and this crap was refuted a long time ago"|0|0|906908251652009985|2022-06-22 14:26:54+00:00|1539615918304681992|@small4lyfe @JeromeAdamsMD @jldbaker You should really do some research before entering these discussions...|0|0|[0.82788503, 0.15959784, 0.012517189]|0.82788503|0.15959784|0.012517189|0.0768842674780634|0.0877197473317857|0.0678926439892738|0.0815674101733162|0.0615770461921486|-0.0926335794511978|-0.0524204487179487|0.0565837013875316|-0.0584841897636771|-0.0989784076556883|0.4285714285714285|0.0001097703262894|0.0039127809354015|no eficaz
+51|7431|1540456296687738883|"@The_Observer123 Cuando quieras, infórmate mejor, cierra al salir.
+https://t.co/GZc2boK1YQ"|1252586011|2022-06-24T22:06:16.000Z|"@The_Observer123 Cuando quieras, infórmate mejor, cierra al salir.
+https://t.co/GZc2boK1YQ"|0|0|1254457775448641537|2022-06-23 10:00:06+00:00|1539911165064757250|"""El confinamiento no existió"". 
+
+Está como una cabra. https://t.co/T1ukfHFDUH"|4759|2463|[0.07749408, 0.8642045, 0.05830134]|0.07749408|0.8642045|0.05830134|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|no eficaz
+53|12572|1539978075999436800|@James_4_liberty @sonnywisco @GreenHombre @Sydeley_Hawkins The media didn’t report it but they should have debunked it. This was a claim by RFK Jr. which was false. The Gates Foundation provided 10 Billion doses of polio and there were 17 cases of vaccine derived polio out of 10 million preventions. https://t.co/xZvtMX9PRm|1324794514540843009|2022-06-23T14:25:59.000Z|@James_4_liberty @sonnywisco @GreenHombre @Sydeley_Hawkins The media didn’t report it but they should have debunked it. This was a claim by RFK Jr. which was false. The Gates Foundation provided 10 Billion doses of polio and there were 17 cases of vaccine derived polio out of 10 million preventions. https://t.co/xZvtMX9PRm|0|0|274167046|2022-06-23 12:13:01+00:00|1539944613443780608|@sonnywisco @BorisVolkov11 @GreenHombre @Sydeley_Hawkins Did Fox or ANY other news organization report this story? I’ll help you. The answer is no. Have a nice life. #LIES #medialies #obfuscation #hide https://t.co/jqiwUvjPEC|1|0|[0.55402875, 0.40826496, 0.037706327]|0.55402875|0.40826496|0.037706327|0.0844289497577193|0.1356428691449196|0.09211199008466|0.102191224342258|0.0927567486974779|-0.0744047612773699|-0.054170099751439|0.008579048098094|0.0179901625132811|0.0006576530612245|0.4666666666666667|0.0004055465293818|0.0017034658538182|eficaz
+54|12572|1539978634571702272|@James_4_liberty @sonnywisco @GreenHombre @Sydeley_Hawkins …again: The media didn’t report it but they should have debunked it. This was a claim by RFK Jr. which was false. The Gates Foundation provided 10 Billion doses of polio vaccine and there were 17 cases of polio out of 10 million preventions. https://t.co/xZvtMX9PRm|1324794514540843009|2022-06-23T14:28:12.000Z|@James_4_liberty @sonnywisco @GreenHombre @Sydeley_Hawkins …again: The media didn’t report it but they should have debunked it. This was a claim by RFK Jr. which was false. The Gates Foundation provided 10 Billion doses of polio vaccine and there were 17 cases of polio out of 10 million preventions. https://t.co/xZvtMX9PRm|1|1|274167046|2022-06-23 12:13:47+00:00|1539944808822734848|@sonnywisco @BorisVolkov11 @GreenHombre @Sydeley_Hawkins …again, for emphasis. Bu-bye. https://t.co/jqiwUvjPEC|1|0|[0.515953, 0.43738386, 0.04666323]|0.515953|0.43738386|0.04666323|0.0844289497577193|0.1356428691449196|0.09211199008466|0.102191224342258|0.0927567486974779|-0.0744047612773699|-0.054170099751439|0.008579048098094|0.0179901625132811|0.0006576530612245|0.5|0.0004055465293818|0.0017034658538182|eficaz
+64|3174|1540318206744825857|@Kacsmar @jer_stew @CBCAlerts https://t.co/6bRgCUXE1O|1311082271710081024|2022-06-24T12:57:32.000Z|@Kacsmar @jer_stew @CBCAlerts https://t.co/6bRgCUXE1O|0|0|196627775|2022-06-24 12:33:38+00:00|1540312189231398913|@IrvineEmerson @jer_stew @CBCAlerts You can say the same thing about Ivermectin. Just sayin… https://t.co/36JAnaPvIx|0|0|[0.16960071, 0.6296353, 0.20076396]|0.16960071|0.6296353|0.20076396|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|no eficaz
+74|429|1540759967027777538|@clement98017286 @PierreKory That concern has no evidence. It was made up for political reasons. If you would like to believe things that are real I suggest you trust verifiable sources. https://t.co/h9rMYzr4OM|1402637695134932994|2022-06-25T18:12:56.000Z|@clement98017286 @PierreKory That concern has no evidence. It was made up for political reasons. If you would like to believe things that are real I suggest you trust verifiable sources. https://t.co/h9rMYzr4OM|0|0|1364957321932201984|2022-06-25 09:41:01+00:00|1540631137126580229|@PierreKory its sheer insanity Pierre. Why won't people see the obvious? This vaccine is killing people, hence the need for all these sign and lets not forget all these sudden death. Stay well you are a decent individual and you and the team have my unwavering support.|6|1|[0.42199314, 0.5345354, 0.04347142]|0.42199314|0.5345354|0.04347142|0.0813967964879312|0.0978863540365682|0.0929269199178264|0.0840153274488974|0.0728904444267152|-0.0355083069663311|-0.0077786631699896|0.1133724649790729|0.1092222108777958|0.0093101646719294|2.75|9.652503497673446e-05|0.0047688733971829|no eficaz
+84|10807|1540888153820495874|"@Gaidheal_Alaska @TonyGee43 @SenSanders In the early days of Covid-19 Dr Fauci and medical science at large saw some possible promise in Remdesivir, which is/was used for hepatitis C, syncytial respiratory virus and even Ebola. Must be really toxic.
+Somehow this makes Dr Fauci corrupt...
+
+https://t.co/8qkw2AaJuT"|1149740160310841346|2022-06-26T02:42:18.000Z|"@Gaidheal_Alaska @TonyGee43 @SenSanders In the early days of Covid-19 Dr Fauci and medical science at large saw some possible promise in Remdesivir, which is/was used for hepatitis C, syncytial respiratory virus and even Ebola. Must be really toxic.
+Somehow this makes Dr Fauci corrupt...
+
+https://t.co/8qkw2AaJuT"|0|0|942858936|2022-06-25 16:49:19+00:00|1540738924640735239|"@Doc58856939 @TonyGee43 @SenSanders So you missed all those people getting fired for not getting vaxxed even though they had already had it, at Fauci’s behest.
+
+Who does that benefit?
+
+(Excuse the delayed response, I have been off grid)"|0|0|[0.878576, 0.111602485, 0.009821515]|0.878576|0.111602485|0.009821515|0.1305192400764829|0.1239520266432552|0.0920172564500325|0.0774224454257688|0.1278661775025948|-0.1046033852368329|-0.000113576387727|0.0501493124785899|0.016199839527179|-0.1264592117597197|0.6875|0.0005797357593236|0.0060694030722424|no eficaz
+86|5105|1540764867128307712|@stenberg_jane @jpsbman @SGirardau @Paulatics https://t.co/ir38BfBQob|1373252581330448387|2022-06-25T18:32:25.000Z|@stenberg_jane @jpsbman @SGirardau @Paulatics https://t.co/ir38BfBQob|0|0|3241815380|2022-06-25 17:40:18+00:00|1540751751803838466|@sharktatoe @jpsbman @SGirardau @Paulatics Just looked at two sets of stats.  They might have more side effects but still in the same range as other vaccines|0|0|[0.15884142, 0.6505322, 0.19062652]|0.15884142|0.6505322|0.19062652|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|eficaz
+99|12390|1541066884522692608|@Rozzi_98 @Trish_NI https://t.co/osj7HCrFzK|1171203776155463680|2022-06-26T14:32:31.000Z|@Rozzi_98 @Trish_NI https://t.co/osj7HCrFzK|0|0|285770940|2022-06-26 14:26:05+00:00|1541065264879525890|@Trish_NI A professional liar like Johnson wouldn't lie...would he?!🤔|1|0|[0.17743011, 0.61030036, 0.21226953]|0.17743011|0.61030036|0.21226953|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|no eficaz
+103|1886|1542847277949124610|"@anon7077 @RWADoc Quit spreading this lie. 
+
+https://t.co/XR0kEoGwzS"|1258874011599151107|2022-07-01T12:27:10.000Z|"@anon7077 @RWADoc Quit spreading this lie. 
+
+https://t.co/XR0kEoGwzS"|0|0|1269798258974560256|2022-06-27 06:41:04+00:00|1541310628463349762|@jh336405 @RWADoc A contagious disease with a 99.97% chance of survival…|2|0|[0.7976577, 0.18705803, 0.015284233]|0.7976577|0.18705803|0.015284233|0.1162790697674418|0.3157894736842105|0.0|0.0727272727272727|0.1052631578947368|-0.10394|-0.1591999999999999|0.0|0.085|-0.0290333333333333|0.2|0.0137947529986224|0.0089079850088888|eficaz
+106|5227|1541703805879742464|"@rem328 @efenigson @Margybargy @worldisraelnews It's been isolated so many times over. Each variant.
+https://t.co/24fK1gIOvx
+https://t.co/laztcaxanV
+https://t.co/uPH6abfbjo
+https://t.co/Kf8klxvEmx
+https://t.co/INJllTHb9Q"|27405039|2022-06-28T08:43:25.000Z|"@rem328 @efenigson @Margybargy @worldisraelnews It's been isolated so many times over. Each variant.
+https://t.co/24fK1gIOvx
+https://t.co/laztcaxanV
+https://t.co/uPH6abfbjo
+https://t.co/Kf8klxvEmx
+https://t.co/INJllTHb9Q"|0|0|146228197|2022-06-27 15:06:39+00:00|1541437861467226113|@Rootbrian_ @efenigson @Margybargy @worldisraelnews Cite a reliable source stating that the Covid exist. FYI, the virus has neves been isolated yet...|0|0|[0.23185286, 0.7130933, 0.05505379]|0.23185286|0.7130933|0.05505379|0.0803200948429164|0.0442990761462098|0.0763851167843563|0.053436471948075|0.1132313829787234|-0.2956348837209301|-0.2344362068965517|-0.0626291666666666|-0.1788774193548387|-0.1319863636363635|0.2|0.0007221633927777|0.0081036671148364|no eficaz
+110|9118|1541604080249761792|@_BMC_x @OhDarkBuffalo @Steely_Jan https://t.co/DtA4acij58|1389354476243361793|2022-06-28T02:07:09.000Z|@_BMC_x @OhDarkBuffalo @Steely_Jan https://t.co/DtA4acij58|0|0|1505165300374855686|2022-06-27 16:16:00+00:00|1541455314603704320|@OhDarkBuffalo @Steely_Jan How was this “debunked” I’ve seen it first hand over a decade before the plandemic|56|1|[0.16960071, 0.6296353, 0.20076396]|0.16960071|0.6296353|0.20076396|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|eficaz
+111|9118|1541924898649817089|@_BMC_x @OhDarkBuffalo @Steely_Jan https://t.co/5PhrGxgebF|821152328|2022-06-28T23:21:58.000Z|@_BMC_x @OhDarkBuffalo @Steely_Jan https://t.co/5PhrGxgebF|0|0|1505165300374855686|2022-06-27 16:16:00+00:00|1541455314603704320|@OhDarkBuffalo @Steely_Jan How was this “debunked” I’ve seen it first hand over a decade before the plandemic|56|1|[0.16960071, 0.6296353, 0.20076396]|0.16960071|0.6296353|0.20076396|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|eficaz
+115|1886|1542844221316530178|"@Nathan_of_CA @RWADoc When you repeat this nonsense about 99% survival rate...imagine how it sounds to the rest of us? 
+
+https://t.co/XR0kEoGwzS"|1258874011599151107|2022-07-01T12:15:01.000Z|"@Nathan_of_CA @RWADoc When you repeat this nonsense about 99% survival rate...imagine how it sounds to the rest of us? 
+
+https://t.co/XR0kEoGwzS"|0|0|981793142016901120|2022-06-27 17:36:45+00:00|1541475637323476993|@jh336405 @RWADoc Are you talkin’ about the contagious disease with a 99% survival rate which, with the new variant, is as deadly as the cold? Getting a vaccine for a disease so mild in severity should be a personal decision too. But of course, “my body my choice” until it comes to getting jabbed.|0|0|[0.7989506, 0.18458784, 0.016461516]|0.7989506|0.18458784|0.016461516|0.1005629453905315|0.0933269171905534|0.0516229190288977|0.0684538594374659|0.0799120234604104|-0.1585152380952381|0.1181530128205128|-0.0013347222222222|-0.0802186274509803|0.0638033333333333|0.4285714285714285|0.0003828817803745|0.0122298709099584|no eficaz
+117|1886|1542844115850862595|"@B_radDavis @RWADoc When you repeat this nonsense about 99% survival rate...imagine how it sounds to the rest of us? 
+
+https://t.co/XR0kEoGwzS"|1258874011599151107|2022-07-01T12:14:36.000Z|"@B_radDavis @RWADoc When you repeat this nonsense about 99% survival rate...imagine how it sounds to the rest of us? 
+
+https://t.co/XR0kEoGwzS"|0|0|1524834939849555968|2022-06-27 21:44:39+00:00|1541538022415646720|@jh336405 @RWADoc What a joke there’s still a 98.7% chance of survival rate with the China Virus but keep telling yourself they are 2 different things hun my body my choice only applies with you people when it’s convenient for you GTFOH with your drivel|0|0|[0.7989506, 0.18458784, 0.016461516]|0.7989506|0.18458784|0.016461516|0.1005629453905315|0.0933269171905534|0.0516229190288977|0.0684538594374659|0.0799120234604104|-0.1585152380952381|0.1181530128205128|-0.0013347222222222|-0.0802186274509803|0.0638033333333333|0.4285714285714285|0.0003828817803745|0.0122298709099584|no eficaz
+124|5653|1541578511881846786|@scott_gottfried @CaveatEmproto @Snoopydoopydoo9 @logosaetos @jordanbpeterson Jesus, man.  You fell for that?  https://t.co/TQmjJcD7fR|60476665|2022-06-28T00:25:33.000Z|@scott_gottfried @CaveatEmproto @Snoopydoopydoo9 @logosaetos @jordanbpeterson Jesus, man.  You fell for that?  https://t.co/TQmjJcD7fR|1|0|1521366178911948802|2022-06-28 00:21:45+00:00|1541577559523135489|@CaveatEmproto @Snoopydoopydoo9 @minus55 @logosaetos @jordanbpeterson Did you see the videos of world leaders pretending, to take the shot?  But really didn't.|0|0|[0.8402388, 0.1479809, 0.0117802825]|0.8402388|0.1479809|0.0117802825|0.1244897959183673|0.0878151824034334|0.1017592891182055|0.0941220668130851|0.0977661950856291|-0.0570314583333332|-0.2408175|-0.1733490909090909|-0.1793057291666666|-0.0036101851851852|0.2857142857142857|0.0001959421110064|0.0094715313350358|eficaz
+131|467|1541802983004016642|@CourtneyGordon7 @JunkersFW190 @DemocraticDaisy @B52Malmet I’m not… you should familiarize yourself with a subject before making claims… Australia had a 14-day quarantine facility for travellers they weren’t rounding up unvaccinated peoples https://t.co/KVRLTQaPep|82196153|2022-06-28T15:17:31.000Z|@CourtneyGordon7 @JunkersFW190 @DemocraticDaisy @B52Malmet I’m not… you should familiarize yourself with a subject before making claims… Australia had a 14-day quarantine facility for travellers they weren’t rounding up unvaccinated peoples https://t.co/KVRLTQaPep|0|0|581425134|2022-06-28 14:37:57+00:00|1541793028461006849|@BCiesielski @JunkersFW190 @DemocraticDaisy @B52Malmet You are defending the govt placing the unvaxxed into camps because they refused to inject themselves? Hitler would have loved you! The Vax sent my husband to the hospital (2 spinal taps and an angiogram) do you plan on sending payment for our medical expenses? Or nah?|0|0|[0.42659286, 0.5380596, 0.035347532]|0.42659286|0.5380596|0.035347532|0.0680996573177201|0.0992894620418296|0.0800856847155874|0.0988766965430497|0.0624690427236546|-0.1026366156462585|0.0506824782544596|-0.0002316666666666|-0.0537844619666048|-0.0872942090977805|0.7|0.0002904531455309|0.0040364644912295|no eficaz
+132|9118|1541879382326870016|"@b1oading @OhDarkBuffalo @Steely_Jan FALSE. 
+https://t.co/7PRkChxb6h"|283331406|2022-06-28T20:21:06.000Z|"@b1oading @OhDarkBuffalo @Steely_Jan FALSE. 
+https://t.co/7PRkChxb6h"|0|0|1082613939001872384|2022-06-28 14:42:30+00:00|1541794172700590081|@OhDarkBuffalo @Steely_Jan submitted 1995 https://t.co/YHiafJw7VZ|1|0|[0.56101954, 0.40931377, 0.02966661]|0.56101954|0.40931377|0.02966661|0.16|0.3950617283950617|0.1632653061224489|0.1976744186046511|0.2448979591836734|-0.098975|-0.099040625|-0.1620812499999999|0.1164882352941176|-0.0039416666666666|0.25|0.0094605066275896|0.0118010606219933|no eficaz
+135|1776|1541855261056458752|@pera_richard @denise_snively @JohnZmirak @BackboneRadio @AndrewBeckUSA @EminaMelonic @ChrisStigall @stevenfhayward @JoshuaSteinman @rogerkimball @GadSaad @prefpub1 @JovanHPulitzer @thisemptychair @vandalbob @DeltaTheBravo @BaxterSB224 @TheLastRefuge2 @RoscoeBDavis1 @docMJP @Last2ndFleetCMC @PepeLePooo @AngleOfAttack1 @JZmirak @realDonaldTrump @JamieGlazov @mark_bauerlein @julie_kelly2 @GenFlynn @LeeSmithDC @RFultonBrown @RpwWilliams @realMikeLindell @owlpatrol66 @JackPosobiec @CatholicCurrent @ALEXNEWMAN_JOU @SundPamela @BillAsher18 @davereaboi @realstewpeters @DanScavino @Simpsonreport @stkirsch @KoaTheGreat @pnjaban @elonmusk @Jikkyleaks @MaajidNawaz It's bogus. Berger supports the vaccines. https://t.co/bYSV8ruIxz|40875530|2022-06-28T18:45:15.000Z|@pera_richard @denise_snively @JohnZmirak @BackboneRadio @AndrewBeckUSA @EminaMelonic @ChrisStigall @stevenfhayward @JoshuaSteinman @rogerkimball @GadSaad @prefpub1 @JovanHPulitzer @thisemptychair @vandalbob @DeltaTheBravo @BaxterSB224 @TheLastRefuge2 @RoscoeBDavis1 @docMJP @Last2ndFleetCMC @PepeLePooo @AngleOfAttack1 @JZmirak @realDonaldTrump @JamieGlazov @mark_bauerlein @julie_kelly2 @GenFlynn @LeeSmithDC @RFultonBrown @RpwWilliams @realMikeLindell @owlpatrol66 @JackPosobiec @CatholicCurrent @ALEXNEWMAN_JOU @SundPamela @BillAsher18 @davereaboi @realstewpeters @DanScavino @Simpsonreport @stkirsch @KoaTheGreat @pnjaban @elonmusk @Jikkyleaks @MaajidNawaz It's bogus. Berger supports the vaccines. https://t.co/bYSV8ruIxz|2|0|784454880576495616|2022-06-28 17:43:48+00:00|1541839799849390085|"@denise_snively @JohnZmirak @BackboneRadio @AndrewBeckUSA @EminaMelonic @ChrisStigall @stevenfhayward @JoshuaSteinman @rogerkimball @GadSaad @prefpub1 @JovanHPulitzer @NiceDeb @thisemptychair @vandalbob @DeltaTheBravo @BaxterSB224 @TheLastRefuge2 @RoscoeBDavis1 @docMJP @Last2ndFleetCMC @PepeLePooo @AngleOfAttack1 @JZmirak @realDonaldTrump @JamieGlazov @mark_bauerlein @julie_kelly2 @GenFlynn @LeeSmithDC @RFultonBrown @RpwWilliams @realMikeLindell @owlpatrol66 @JackPosobiec @CatholicCurrent @ALEXNEWMAN_JOU @SundPamela @BillAsher18 @davereaboi @realstewpeters @DanScavino @Simpsonreport @stkirsch @KoaTheGreat @pnjaban @elonmusk @Jikkyleaks @MaajidNawaz This seems T00 G00D to be true, can ANYONE confirm with a link ? ?
+
+https://t.co/TloMEkI3Uu"|0|0|[0.39093906, 0.54107815, 0.06798275]|0.39093906|0.54107815|0.06798275|0.0921052631578947|0.2112676056338028|0.1764705882352941|0.0666666666666666|0.0677966101694915|0.4383571428571429|0.38934|0.44428|0.465325|0.471375|0.0188679245283018|0.004456380336183|0.0010495351669897|no eficaz
+143|489|1543677007782887431|"@donhuskey @Thompsonklay @charliekirk11 “Goodsciencing[.]com”
+
+https://t.co/fGXnOtn84I"|296344559|2022-07-03T19:24:13.000Z|"@donhuskey @Thompsonklay @charliekirk11 “Goodsciencing[.]com”
+
+https://t.co/fGXnOtn84I"|1|0|112586124|2022-06-29 01:12:25+00:00|1541952694121893890|"@Thompsonklay @charliekirk11 The numbers keep Growing
+ 📌 1111 Athlete Cardiac Arrests, Serious Issues, 732 Dead, After COVID Injection
+
+https://t.co/vHcKFaPeER"|14|8|[0.06923498, 0.735426, 0.19533902]|0.06923498|0.735426|0.19533902|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|no eficaz
+145|2095|1543363755765022728|@peterr2222 @TexasLindsay @P_McCulloughMD https://t.co/IND5qfiC4q|3028331092|2022-07-02T22:39:28.000Z|@peterr2222 @TexasLindsay @P_McCulloughMD https://t.co/IND5qfiC4q|0|0|4766281362|2022-06-29 02:30:08+00:00|1541972254849789952|@TexasLindsay @P_McCulloughMD Did you listen to the McCullough Report yesterday with Dr James Thorp? Discussing the known and still unknown damages from the experimental gene cocktail re fertility/pregnancy etc. A must listen 👍🏻|38|3|[0.16960071, 0.6296353, 0.20076396]|0.16960071|0.6296353|0.20076396|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|no eficaz
+146|2095|1543365086751891457|@Momto08 @TexasLindsay @P_McCulloughMD https://t.co/IND5qfiC4q|3028331092|2022-07-02T22:44:45.000Z|@Momto08 @TexasLindsay @P_McCulloughMD https://t.co/IND5qfiC4q|0|0|1198446292684308481|2022-06-29 02:30:27+00:00|1541972333396721665|@TexasLindsay @P_McCulloughMD Do you have the link to the full hearing? I watched part of it yesterday but I didn’t get to hear the first half|4|0|[0.16960071, 0.6296353, 0.20076396]|0.16960071|0.6296353|0.20076396|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|no eficaz
+162|2095|1543363866574331904|@seaview171 @TexasLindsay @HatNet @P_McCulloughMD https://t.co/IND5qfiC4q|3028331092|2022-07-02T22:39:54.000Z|@seaview171 @TexasLindsay @HatNet @P_McCulloughMD https://t.co/IND5qfiC4q|1|0|1388349126610358272|2022-06-29 11:46:46+00:00|1542112334067695616|@TexasLindsay @HatNet @P_McCulloughMD And still no one listens! What does it take for someone to actually action this??|18|1|[0.15884142, 0.6505322, 0.19062652]|0.15884142|0.6505322|0.19062652|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|eficaz
+165|5373|1542135862712061953|@TMassenger @salstrange https://t.co/UbRCQYve1y|1110881843828666370|2022-06-29T13:20:15.000Z|@TMassenger @salstrange https://t.co/UbRCQYve1y|0|0|1372291531961421828|2022-06-29 13:13:55+00:00|1542134268708659200|@theBEnote @salstrange We're not saying the virus was not deadly,  We're saying ( they ) say it was deadly and would you have taken the shot if your knew earlier that Dr. Fouci is the owner of the laboratory in Wuhan China ? they will tell you anything at War time.😎|0|0|[0.17743011, 0.61030036, 0.21226953]|0.17743011|0.61030036|0.21226953|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|eficaz
+166|489|1542142856244101120|@kmc4boys21 @TDeathmatt @APChill1 @Dan_Shaughnessy https://t.co/1HEk5N14SA|1488867935334678531|2022-06-29T13:48:03.000Z|@kmc4boys21 @TDeathmatt @APChill1 @Dan_Shaughnessy https://t.co/1HEk5N14SA|0|0|1374023203123834882|2022-06-29 13:46:12+00:00|1542142393369198593|"@TDeathmatt @APChill1 @Dan_Shaughnessy No, I do not have evidence of any MLB.  But I have seen many stories about young athlete's tragic deaths, which scares me.  
+
+I don't believe he quit on the team.  I believe requiring any institution, who are requiring a ""vaccine"" that is new, with thousands of side effects..."|0|0|[0.15884142, 0.6505322, 0.19062652]|0.15884142|0.6505322|0.19062652|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|no eficaz
+168|2095|1543365355795513345|@frances74489635 @TexasLindsay @P_McCulloughMD https://t.co/IND5qfiC4q|3028331092|2022-07-02T22:45:49.000Z|@frances74489635 @TexasLindsay @P_McCulloughMD https://t.co/IND5qfiC4q|0|0|1123248962113351680|2022-06-29 16:35:16+00:00|1542184939772428288|@TexasLindsay @P_McCulloughMD the governament already paid it... what we do? just give to people if died we don't need to paid pension...|1|0|[0.16960071, 0.6296353, 0.20076396]|0.16960071|0.6296353|0.20076396|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|no eficaz
+171|2095|1543364915670515714|@LeeisWideAwake @TexasLindsay @P_McCulloughMD https://t.co/IND5qfiC4q|3028331092|2022-07-02T22:44:04.000Z|@LeeisWideAwake @TexasLindsay @P_McCulloughMD https://t.co/IND5qfiC4q|0|0|1527712227310051331|2022-06-29 17:29:35+00:00|1542198608698773507|@TexasLindsay @P_McCulloughMD 40,000 deaths recorded......thats the tip of the iceberg!|10|0|[0.16960071, 0.6296353, 0.20076396]|0.16960071|0.6296353|0.20076396|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|no eficaz
+172|2095|1543364187258249219|@Fieryredhead5 @TexasLindsay @P_McCulloughMD https://t.co/IND5qfiC4q|3028331092|2022-07-02T22:41:11.000Z|@Fieryredhead5 @TexasLindsay @P_McCulloughMD https://t.co/IND5qfiC4q|0|0|1007718414620790785|2022-06-29 17:31:17+00:00|1542199033967644676|@TexasLindsay @P_McCulloughMD There's probably tens of thousands more that the doctors won't even acknowledge as vax related|20|1|[0.16960071, 0.6296353, 0.20076396]|0.16960071|0.6296353|0.20076396|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|eficaz
+179|2095|1543364623964987393|@AndyAndo09 @TexasLindsay @P_McCulloughMD https://t.co/IND5qfiC4q|3028331092|2022-07-02T22:42:55.000Z|@AndyAndo09 @TexasLindsay @P_McCulloughMD https://t.co/IND5qfiC4q|0|0|1512871705269706753|2022-06-29 19:14:58+00:00|1542225128393785348|"@TexasLindsay @P_McCulloughMD If you compare Swine flu GSK jab in 2008/09 which was pulled from market for being unsafe 53 deaths 1000+ injured 
+The enough the pull Moderna and Pfizer they own data Pfizer 1200 in first 3 months 
+Me personally should be 0 death make it safe
+
+My FOI 
+https://t.co/WCPrBbEfTU"|10|3|[0.16960071, 0.6296353, 0.20076396]|0.16960071|0.6296353|0.20076396|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|no eficaz
+181|2095|1543365121321336832|@EnderRexen @TexasLindsay @P_McCulloughMD https://t.co/IND5qfiC4q|3028331092|2022-07-02T22:44:53.000Z|@EnderRexen @TexasLindsay @P_McCulloughMD https://t.co/IND5qfiC4q|0|0|1247038172959100928|2022-06-29 20:02:13+00:00|1542237021380288512|@TexasLindsay @P_McCulloughMD These vaccines are not about saving lives.|4|0|[0.16960071, 0.6296353, 0.20076396]|0.16960071|0.6296353|0.20076396|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|eficaz
+182|2157|1542245502200082432|"@PalehorseVaqero @GeorgeTakei @fiona_webster22 @KamalaHarris @JoeBiden @andrewcuomo Not surprised about Cuomo.
+https://t.co/KacvRPKsUQ"|120598755|2022-06-29T20:35:55.000Z|"@PalehorseVaqero @GeorgeTakei @fiona_webster22 @KamalaHarris @JoeBiden @andrewcuomo Not surprised about Cuomo.
+https://t.co/KacvRPKsUQ"|0|0|1519002333316755458|2022-06-29 20:12:51+00:00|1542239697157533696|@KathyCybele @GeorgeTakei @fiona_webster22 I agree the @KamalaHarris, @JoeBiden, and @andrewcuomo #antivax movement caught on. Maybe if they had been pro vaccine before the election they wouldn’t have had that problem. https://t.co/1kGkrwAHhI|0|0|[0.15532565, 0.6934928, 0.15118153]|0.15532565|0.6934928|0.15118153|0.0303030303030303|0.1020408163265306|0.1219512195121951|0.0|0.054054054054054|-0.6908|0.04506|-0.0456|0.0|-0.2814|0.125|0.0025271766393038|0.0928139355199999|eficaz
+191|2095|1543364027279179777|@P0o @TexasLindsay @P_McCulloughMD https://t.co/IND5qfiC4q|3028331092|2022-07-02T22:40:33.000Z|@P0o @TexasLindsay @P_McCulloughMD https://t.co/IND5qfiC4q|0|0|38545595|2022-06-30 07:21:41+00:00|1542408012576575491|@TexasLindsay @P_McCulloughMD So why has it been ok’d to give to 6 mos olds|0|0|[0.16960071, 0.6296353, 0.20076396]|0.16960071|0.6296353|0.20076396|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|eficaz
+193|383|1542455975923175424|"@Boree80388100 @BlackSheepNZL @TedLasgo @Cahern21Ahern @ajpoleary Thanks but no thanks. I'll stick these facts.
+https://t.co/2tkBzEWBZO"|1445162551017283589|2022-06-30T10:32:16.000Z|"@Boree80388100 @BlackSheepNZL @TedLasgo @Cahern21Ahern @ajpoleary Thanks but no thanks. I'll stick these facts.
+https://t.co/2tkBzEWBZO"|0|0|1520309583759220738|2022-06-30 10:27:13+00:00|1542454705036607488|@kiwichick1268 @BlackSheepNZL @TedLasgo @Cahern21Ahern @ajpoleary Please watch this brilliant documentary with facts only. You can check all that is talk about in it. https://t.co/zEIYYeXHMc|0|0|[0.38856, 0.55614007, 0.055299897]|0.38856|0.55614007|0.055299897|0.1026251526251526|0.0998023715415019|0.1183823529411764|0.1571214392803598|0.067027027027027|0.1624675|0.2683883333333333|0.1540678571428571|0.2752957142857143|0.015771875|0.6666666666666666|0.0010726666566437|0.0111823071329009|eficaz
+196|2095|1543365614378557441|@dcarter66inkc @TexasLindsay @SCSam4Trump @P_McCulloughMD https://t.co/IND5qfiC4q|3028331092|2022-07-02T22:46:51.000Z|@dcarter66inkc @TexasLindsay @SCSam4Trump @P_McCulloughMD https://t.co/IND5qfiC4q|0|0|901660763533836288|2022-06-30 12:30:56+00:00|1542485839967567872|@TexasLindsay @SCSam4Trump @P_McCulloughMD And the US government just bought 105mil new doses from Pfizer to be prepared for fall. Let me guess a new variant will be introduced in Sept or Oct in time for the midterms.|4|0|[0.15884142, 0.6505322, 0.19062652]|0.15884142|0.6505322|0.19062652|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|eficaz
+200|1314|1542540692798455808|@icanmakerice @JoeMerrick Lmao I just looked up redacted Pfizer reports and all I found was they redacted water as an ingredient in the vaccines (https://t.co/ntnvM63SXh) is that what you were talking about???|1497800770384764933|2022-06-30T16:08:54.000Z|@icanmakerice @JoeMerrick Lmao I just looked up redacted Pfizer reports and all I found was they redacted water as an ingredient in the vaccines (https://t.co/ntnvM63SXh) is that what you were talking about???|2|0|1497800770384764933|2022-06-30 16:01:19+00:00|1542538782318252032|@icanmakerice @JoeMerrick I’d love to read them. Send me a smigden of evidence I beg of you.|1|0|[0.50510603, 0.46260002, 0.03229392]|0.50510603|0.46260002|0.03229392|0.0916920489175023|0.06026692983821|0.0791833206512874|0.0580032635280062|0.0849849703923601|-0.1460966220238095|-0.1253592142857142|0.0047550326797385|-0.0962571153846154|-0.0950499458874459|0.4444444444444444|0.0002254063787759|0.0033568623804672|no eficaz
+203|2095|1543363807904399361|@cpmdroid @TexasLindsay @P_McCulloughMD https://t.co/IND5qfiC4q|3028331092|2022-07-02T22:39:40.000Z|@cpmdroid @TexasLindsay @P_McCulloughMD https://t.co/IND5qfiC4q|0|0|158101025|2022-06-30 20:36:01+00:00|1542607915097460738|@TexasLindsay @P_McCulloughMD I’m trying to find the WHO info on it. No info except what he is saying|0|0|[0.16960071, 0.6296353, 0.20076396]|0.16960071|0.6296353|0.20076396|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|no eficaz
+204|343|1542638087611768840|"@Butterbean411 @MLive https://t.co/ZLU4pu1yD2
+
+https://t.co/zHSEmL253L
+
+https://t.co/xK6Byd4Sry
+
+https://t.co/45pmGQb95n
+
+https://t.co/MkuybR7Vtl
+
+https://t.co/QsuTiai6KV
+
+https://t.co/q7tAyrMHrG
+
+https://t.co/x4WUcUuW6e
+
+https://t.co/67woRngvLC"|1430197314010980353|2022-06-30T22:35:55.000Z|"@Butterbean411 @MLive https://t.co/ZLU4pu1yD2
+
+https://t.co/zHSEmL253L
+
+https://t.co/xK6Byd4Sry
+
+https://t.co/45pmGQb95n
+
+https://t.co/MkuybR7Vtl
+
+https://t.co/QsuTiai6KV
+
+https://t.co/q7tAyrMHrG
+
+https://t.co/x4WUcUuW6e
+
+https://t.co/67woRngvLC"|0|0|1046152048696324096|2022-06-30 22:28:15+00:00|1542636157942566914|@DeirgVanStein @MLive So is the senate he's testified in front of numerous times. Actually he's quite respected in the medical community. But I know that you know that.|0|0|[0.17743011, 0.61030036, 0.21226953]|0.17743011|0.61030036|0.21226953|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|eficaz
+205|343|1542638087611768840|"@Butterbean411 @MLive https://t.co/ZLU4pu1yD2
+
+https://t.co/zHSEmL253L
+
+https://t.co/xK6Byd4Sry
+
+https://t.co/45pmGQb95n
+
+https://t.co/MkuybR7Vtl
+
+https://t.co/QsuTiai6KV
+
+https://t.co/q7tAyrMHrG
+
+https://t.co/x4WUcUuW6e
+
+https://t.co/67woRngvLC"|1430197314010980353|2022-06-30T22:35:55.000Z|"@Butterbean411 @MLive https://t.co/ZLU4pu1yD2
+
+https://t.co/zHSEmL253L
+
+https://t.co/xK6Byd4Sry
+
+https://t.co/45pmGQb95n
+
+https://t.co/MkuybR7Vtl
+
+https://t.co/QsuTiai6KV
+
+https://t.co/q7tAyrMHrG
+
+https://t.co/x4WUcUuW6e
+
+https://t.co/67woRngvLC"|0|0|1046152048696324096|2022-06-30 22:28:15+00:00|1542636157942566914|@DeirgVanStein @MLive So is the senate he's testified in front of numerous times. Actually he's quite respected in the medical community. But I know that you know that.|0|0|[0.17743011, 0.61030036, 0.21226953]|0.17743011|0.61030036|0.21226953|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|eficaz
+206|343|1542638087611768840|"@Butterbean411 @MLive https://t.co/ZLU4pu1yD2
+
+https://t.co/zHSEmL253L
+
+https://t.co/xK6Byd4Sry
+
+https://t.co/45pmGQb95n
+
+https://t.co/MkuybR7Vtl
+
+https://t.co/QsuTiai6KV
+
+https://t.co/q7tAyrMHrG
+
+https://t.co/x4WUcUuW6e
+
+https://t.co/67woRngvLC"|1430197314010980353|2022-06-30T22:35:55.000Z|"@Butterbean411 @MLive https://t.co/ZLU4pu1yD2
+
+https://t.co/zHSEmL253L
+
+https://t.co/xK6Byd4Sry
+
+https://t.co/45pmGQb95n
+
+https://t.co/MkuybR7Vtl
+
+https://t.co/QsuTiai6KV
+
+https://t.co/q7tAyrMHrG
+
+https://t.co/x4WUcUuW6e
+
+https://t.co/67woRngvLC"|0|0|1046152048696324096|2022-06-30 22:28:15+00:00|1542636157942566914|@DeirgVanStein @MLive So is the senate he's testified in front of numerous times. Actually he's quite respected in the medical community. But I know that you know that.|0|0|[0.17743011, 0.61030036, 0.21226953]|0.17743011|0.61030036|0.21226953|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|eficaz
+207|732|1542638087611768840|"@Butterbean411 @MLive https://t.co/ZLU4pu1yD2
+
+https://t.co/zHSEmL253L
+
+https://t.co/xK6Byd4Sry
+
+https://t.co/45pmGQb95n
+
+https://t.co/MkuybR7Vtl
+
+https://t.co/QsuTiai6KV
+
+https://t.co/q7tAyrMHrG
+
+https://t.co/x4WUcUuW6e
+
+https://t.co/67woRngvLC"|1430197314010980353|2022-06-30T22:35:55.000Z|"@Butterbean411 @MLive https://t.co/ZLU4pu1yD2
+
+https://t.co/zHSEmL253L
+
+https://t.co/xK6Byd4Sry
+
+https://t.co/45pmGQb95n
+
+https://t.co/MkuybR7Vtl
+
+https://t.co/QsuTiai6KV
+
+https://t.co/q7tAyrMHrG
+
+https://t.co/x4WUcUuW6e
+
+https://t.co/67woRngvLC"|0|0|1046152048696324096|2022-06-30 22:28:15+00:00|1542636157942566914|@DeirgVanStein @MLive So is the senate he's testified in front of numerous times. Actually he's quite respected in the medical community. But I know that you know that.|0|0|[0.17743011, 0.61030036, 0.21226953]|0.17743011|0.61030036|0.21226953|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|eficaz
+208|732|1542638087611768840|"@Butterbean411 @MLive https://t.co/ZLU4pu1yD2
+
+https://t.co/zHSEmL253L
+
+https://t.co/xK6Byd4Sry
+
+https://t.co/45pmGQb95n
+
+https://t.co/MkuybR7Vtl
+
+https://t.co/QsuTiai6KV
+
+https://t.co/q7tAyrMHrG
+
+https://t.co/x4WUcUuW6e
+
+https://t.co/67woRngvLC"|1430197314010980353|2022-06-30T22:35:55.000Z|"@Butterbean411 @MLive https://t.co/ZLU4pu1yD2
+
+https://t.co/zHSEmL253L
+
+https://t.co/xK6Byd4Sry
+
+https://t.co/45pmGQb95n
+
+https://t.co/MkuybR7Vtl
+
+https://t.co/QsuTiai6KV
+
+https://t.co/q7tAyrMHrG
+
+https://t.co/x4WUcUuW6e
+
+https://t.co/67woRngvLC"|0|0|1046152048696324096|2022-06-30 22:28:15+00:00|1542636157942566914|@DeirgVanStein @MLive So is the senate he's testified in front of numerous times. Actually he's quite respected in the medical community. But I know that you know that.|0|0|[0.17743011, 0.61030036, 0.21226953]|0.17743011|0.61030036|0.21226953|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|eficaz
+209|732|1542638087611768840|"@Butterbean411 @MLive https://t.co/ZLU4pu1yD2
+
+https://t.co/zHSEmL253L
+
+https://t.co/xK6Byd4Sry
+
+https://t.co/45pmGQb95n
+
+https://t.co/MkuybR7Vtl
+
+https://t.co/QsuTiai6KV
+
+https://t.co/q7tAyrMHrG
+
+https://t.co/x4WUcUuW6e
+
+https://t.co/67woRngvLC"|1430197314010980353|2022-06-30T22:35:55.000Z|"@Butterbean411 @MLive https://t.co/ZLU4pu1yD2
+
+https://t.co/zHSEmL253L
+
+https://t.co/xK6Byd4Sry
+
+https://t.co/45pmGQb95n
+
+https://t.co/MkuybR7Vtl
+
+https://t.co/QsuTiai6KV
+
+https://t.co/q7tAyrMHrG
+
+https://t.co/x4WUcUuW6e
+
+https://t.co/67woRngvLC"|0|0|1046152048696324096|2022-06-30 22:28:15+00:00|1542636157942566914|@DeirgVanStein @MLive So is the senate he's testified in front of numerous times. Actually he's quite respected in the medical community. But I know that you know that.|0|0|[0.17743011, 0.61030036, 0.21226953]|0.17743011|0.61030036|0.21226953|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|eficaz
+210|4019|1542638087611768840|"@Butterbean411 @MLive https://t.co/ZLU4pu1yD2
+
+https://t.co/zHSEmL253L
+
+https://t.co/xK6Byd4Sry
+
+https://t.co/45pmGQb95n
+
+https://t.co/MkuybR7Vtl
+
+https://t.co/QsuTiai6KV
+
+https://t.co/q7tAyrMHrG
+
+https://t.co/x4WUcUuW6e
+
+https://t.co/67woRngvLC"|1430197314010980353|2022-06-30T22:35:55.000Z|"@Butterbean411 @MLive https://t.co/ZLU4pu1yD2
+
+https://t.co/zHSEmL253L
+
+https://t.co/xK6Byd4Sry
+
+https://t.co/45pmGQb95n
+
+https://t.co/MkuybR7Vtl
+
+https://t.co/QsuTiai6KV
+
+https://t.co/q7tAyrMHrG
+
+https://t.co/x4WUcUuW6e
+
+https://t.co/67woRngvLC"|0|0|1046152048696324096|2022-06-30 22:28:15+00:00|1542636157942566914|@DeirgVanStein @MLive So is the senate he's testified in front of numerous times. Actually he's quite respected in the medical community. But I know that you know that.|0|0|[0.17743011, 0.61030036, 0.21226953]|0.17743011|0.61030036|0.21226953|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|eficaz
+211|4019|1542638087611768840|"@Butterbean411 @MLive https://t.co/ZLU4pu1yD2
+
+https://t.co/zHSEmL253L
+
+https://t.co/xK6Byd4Sry
+
+https://t.co/45pmGQb95n
+
+https://t.co/MkuybR7Vtl
+
+https://t.co/QsuTiai6KV
+
+https://t.co/q7tAyrMHrG
+
+https://t.co/x4WUcUuW6e
+
+https://t.co/67woRngvLC"|1430197314010980353|2022-06-30T22:35:55.000Z|"@Butterbean411 @MLive https://t.co/ZLU4pu1yD2
+
+https://t.co/zHSEmL253L
+
+https://t.co/xK6Byd4Sry
+
+https://t.co/45pmGQb95n
+
+https://t.co/MkuybR7Vtl
+
+https://t.co/QsuTiai6KV
+
+https://t.co/q7tAyrMHrG
+
+https://t.co/x4WUcUuW6e
+
+https://t.co/67woRngvLC"|0|0|1046152048696324096|2022-06-30 22:28:15+00:00|1542636157942566914|@DeirgVanStein @MLive So is the senate he's testified in front of numerous times. Actually he's quite respected in the medical community. But I know that you know that.|0|0|[0.17743011, 0.61030036, 0.21226953]|0.17743011|0.61030036|0.21226953|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|eficaz
+212|4019|1542638087611768840|"@Butterbean411 @MLive https://t.co/ZLU4pu1yD2
+
+https://t.co/zHSEmL253L
+
+https://t.co/xK6Byd4Sry
+
+https://t.co/45pmGQb95n
+
+https://t.co/MkuybR7Vtl
+
+https://t.co/QsuTiai6KV
+
+https://t.co/q7tAyrMHrG
+
+https://t.co/x4WUcUuW6e
+
+https://t.co/67woRngvLC"|1430197314010980353|2022-06-30T22:35:55.000Z|"@Butterbean411 @MLive https://t.co/ZLU4pu1yD2
+
+https://t.co/zHSEmL253L
+
+https://t.co/xK6Byd4Sry
+
+https://t.co/45pmGQb95n
+
+https://t.co/MkuybR7Vtl
+
+https://t.co/QsuTiai6KV
+
+https://t.co/q7tAyrMHrG
+
+https://t.co/x4WUcUuW6e
+
+https://t.co/67woRngvLC"|0|0|1046152048696324096|2022-06-30 22:28:15+00:00|1542636157942566914|@DeirgVanStein @MLive So is the senate he's testified in front of numerous times. Actually he's quite respected in the medical community. But I know that you know that.|0|0|[0.17743011, 0.61030036, 0.21226953]|0.17743011|0.61030036|0.21226953|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|eficaz
+219|3057|1543027607821746176|"@lamarulares Les falso que la Cruz roja Americana  hayan dicho eso.. no sean miserables difundiendo está falsa noticia que aleja los pocos donante de sangre existe en el mundo que pueden salvar una vida...
+
+https://t.co/BRKSOwZXtv"|92332047|2022-07-02T00:23:44.000Z|"@lamarulares Les falso que la Cruz roja Americana  hayan dicho eso.. no sean miserables difundiendo está falsa noticia que aleja los pocos donante de sangre existe en el mundo que pueden salvar una vida...
+
+https://t.co/BRKSOwZXtv"|0|0|249332248|2022-07-01 12:48:14+00:00|1542852581378199552|Uuuupppps! Esa pobre gente que nadie les dijo nada o les advirtieron de que podía pasar. https://t.co/SlIUINoknI|2486|2137|[0.31760126, 0.6351496, 0.04724909]|0.31760126|0.6351496|0.04724909|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|no eficaz
+229|1897|1543270758280925184|"@delbigtree @DrJudyAMikovits Del Bigtree is a conspiracy theory nutjob who profits from anti-vaccine propaganda. Adverse events are unconfirmed reports and not necessarily correlated with Pfizer's vaccines.
+
+https://t.co/aD3qvGnZvv"|1193723230512545794|2022-07-02T16:29:56.000Z|"@delbigtree @DrJudyAMikovits Del Bigtree is a conspiracy theory nutjob who profits from anti-vaccine propaganda. Adverse events are unconfirmed reports and not necessarily correlated with Pfizer's vaccines.
+
+https://t.co/aD3qvGnZvv"|0|0|45598972|2022-07-01 22:20:27+00:00|1542996580982263811|BREAKING: 90,877 new pages from the FDA PFIZER VAXX DOCUMENTS just dropped.  If you want to be the first to discover the next horrifying bombshell check them out at our website below. #Winning  https://t.co/To4EL2Cpq4|11724|6780|[0.8583535, 0.13359559, 0.008051034]|0.8583535|0.13359559|0.008051034|0.1009411456612023|0.1258426479874342|0.1054604708144576|0.1242958252666447|0.0734666292011295|-0.3201622222222222|-0.1636817219817219|-0.0222946078431372|-0.1571378764753764|-0.2947665481740482|0.4285714285714285|0.000453192801703|0.0144507413235465|no eficaz
+231|866|1543041389956587520|"Stats show DeSantis's rosy pic isnt really all that rosy. 
+During parts of the pandemic all public health announcements stopped, there were no conferences. It disappeared. Out of sight, out of mind? The hospitals thought diff and so did those getting sick
+https://t.co/jgI11Nbdwx"|1047881657259347973|2022-07-02T01:18:30.000Z|"Stats show DeSantis's rosy pic isnt really all that rosy. 
+During parts of the pandemic all public health announcements stopped, there were no conferences. It disappeared. Out of sight, out of mind? The hospitals thought diff and so did those getting sick
+https://t.co/jgI11Nbdwx"|1|1|1047881657259347973|2022-07-02 01:12:16+00:00|1543039822591365120|"Initially during Covid DeSantis was hands off, leaving precautions to county/local gov's due to diff needs across the state. He then removes all pwr from county gov's, bans all mask mandates, causing chaos throughout the state. Covid levels soared
+https://t.co/Fky5wuJoB3"|0|0|[0.62547505, 0.33909345, 0.035431527]|0.62547505|0.33909345|0.035431527|0.1180439417449525|0.0992769888546885|0.0862883835357389|0.0869213562682014|0.1056265062719471|-0.1667274815267037|-0.0538602209471791|0.0429547634310134|-0.1258227663547688|-0.1254326226611156|0.6923076923076923|0.0001784675103363|0.0068299399924841|eficaz
+237|2095|1543365545025851393|@scottk60155526 @TexasLindsay @P_McCulloughMD https://t.co/IND5qfiC4q|3028331092|2022-07-02T22:46:34.000Z|@scottk60155526 @TexasLindsay @P_McCulloughMD https://t.co/IND5qfiC4q|0|0|1043870030478409728|2022-07-02 15:05:14+00:00|1543249445386653697|@TexasLindsay @P_McCulloughMD Crazy this is so sad what they are doing|0|0|[0.16960071, 0.6296353, 0.20076396]|0.16960071|0.6296353|0.20076396|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|no eficaz
+240|866|1543291044305027073|"@bielmike @Michael16202231 @FishNugget7 @CNN You keep coming back for more but too bad for you I know tge far-right trolls talking points by heart. You have no shame throwing out bs hoping I don't know the data and don't gave receipts 🤡🤡
+
+https://t.co/rihVQ1Demz"|1398782570255507464|2022-07-02T17:50:32.000Z|"@bielmike @Michael16202231 @FishNugget7 @CNN You keep coming back for more but too bad for you I know tge far-right trolls talking points by heart. You have no shame throwing out bs hoping I don't know the data and don't gave receipts 🤡🤡
+
+https://t.co/rihVQ1Demz"|0|0|17033674|2022-07-02 17:14:30+00:00|1543281976647491585|@JJackson971 @Michael16202231 @FishNugget7 @CNN Point about Covid is shot doesn’t work. I got both and three weeks later I had Covid. I’ve been exposed to Covid multiple times and natural immunity is the best cure.  Florida opened its doors in June 2020. Success|0|0|[0.93027776, 0.06332165, 0.0064005554]|0.93027776|0.06332165|0.0064005554|0.0992885457304457|0.122799498892038|0.1105490058818181|0.1243953348839523|0.0991879984528336|-0.0917952651827241|-0.0470650076882611|0.0237841667562917|-0.0472520733966888|-0.0328914423076922|1.0833333333333333|0.0001488125601913|0.0017249093789209|no eficaz
+244|4772|1543864388490330112|@BandyGit @Smaley1965 https://t.co/dnj1p4aqYj|1089197357802184704|2022-07-04T07:48:48.000Z|@BandyGit @Smaley1965 https://t.co/dnj1p4aqYj|1|0|1429086016057585667|2022-07-02 20:59:55+00:00|1543338703690530817|"@Smaley1965 I recommend spending an hour watching this video. 
+If anyone still wants to continue getting jabs after watching this then good luck to them.
+
+https://t.co/W27zeunBbB"|50|14|[0.17743011, 0.61030036, 0.21226953]|0.17743011|0.61030036|0.21226953|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|eficaz
+248|225|1543727632663347200|"@arekdrozda @MarcTennant Here’s why the study you posted is not correct…
+
+https://t.co/Feew9SLziV"|17112823|2022-07-03T22:45:23.000Z|"@arekdrozda @MarcTennant Here’s why the study you posted is not correct…
+
+https://t.co/Feew9SLziV"|0|0|134439685|2022-07-03 07:54:19+00:00|1543503390449496064|"@MarcTennant Prof Tennant, so what does it tell us about the effectiveness of #COVID19vaccine ? +95% of adult Australians took that cure because were promised not to get sick, not to end up in hospital, and not to die... 
+
+For reference: 
+https://t.co/EJqpm32g36
++ Pfizer study: ARR just 0.7%"|2|0|[0.8192119, 0.17029352, 0.010494442]|0.8192119|0.17029352|0.010494442|0.0699545552486728|0.0610433000190701|0.0441898481811001|0.0894673821123608|0.0855579246624022|-0.0608273148148147|-0.0336116666666666|0.0296263888888888|-0.0907366666666667|-0.1370486111111111|1.0|0.0003418518470317|0.0039000477546236|no eficaz
+253|923|1543619856443924485|"@TankThink777 @1bravewave @RepThomasMassie Wrong!!! Where is your source? Here is one (of many that you need to read).
+
+https://t.co/tSG8gWyygQ"|1268321610752122880|2022-07-03T15:37:07.000Z|"@TankThink777 @1bravewave @RepThomasMassie Wrong!!! Where is your source? Here is one (of many that you need to read).
+
+https://t.co/tSG8gWyygQ"|1|0|1519634123543007233|2022-07-03 13:57:02+00:00|1543594669128531968|@1bravewave @RepThomasMassie Israeli studies show 90% of the Covid deaths right now are from the fully vaxed.|22|0|[0.71219575, 0.26615903, 0.021645138]|0.71219575|0.26615903|0.021645138|0.0955886869861431|0.0941996955681751|0.0809150821089023|0.0630628046333112|0.0855100711497734|0.0125970735581622|-0.1727384093915343|-0.0277616019356461|-0.0341901235465116|-0.1142685416666667|1.0|0.0001720974755528|0.0055915973634955|eficaz
+254|923|1543619856443924485|"@TankThink777 @1bravewave @RepThomasMassie Wrong!!! Where is your source? Here is one (of many that you need to read).
+
+https://t.co/tSG8gWyygQ"|1268321610752122880|2022-07-03T15:37:07.000Z|"@TankThink777 @1bravewave @RepThomasMassie Wrong!!! Where is your source? Here is one (of many that you need to read).
+
+https://t.co/tSG8gWyygQ"|1|0|1519634123543007233|2022-07-03 13:57:02+00:00|1543594669128531968|@1bravewave @RepThomasMassie Israeli studies show 90% of the Covid deaths right now are from the fully vaxed.|22|0|[0.71219575, 0.26615903, 0.021645138]|0.71219575|0.26615903|0.021645138|0.0955886869861431|0.0941996955681751|0.0809150821089023|0.0630628046333112|0.0855100711497734|0.0125970735581622|-0.1727384093915343|-0.0277616019356461|-0.0341901235465116|-0.1142685416666667|1.0|0.0001720974755528|0.0055915973634955|eficaz
+255|931|1543619856443924485|"@TankThink777 @1bravewave @RepThomasMassie Wrong!!! Where is your source? Here is one (of many that you need to read).
+
+https://t.co/tSG8gWyygQ"|1268321610752122880|2022-07-03T15:37:07.000Z|"@TankThink777 @1bravewave @RepThomasMassie Wrong!!! Where is your source? Here is one (of many that you need to read).
+
+https://t.co/tSG8gWyygQ"|1|0|1519634123543007233|2022-07-03 13:57:02+00:00|1543594669128531968|@1bravewave @RepThomasMassie Israeli studies show 90% of the Covid deaths right now are from the fully vaxed.|22|0|[0.71219575, 0.26615903, 0.021645138]|0.71219575|0.26615903|0.021645138|0.0955886869861431|0.0941996955681751|0.0809150821089023|0.0630628046333112|0.0855100711497734|0.0125970735581622|-0.1727384093915343|-0.0277616019356461|-0.0341901235465116|-0.1142685416666667|1.0|0.0001720974755528|0.0055915973634955|eficaz
+256|931|1543619856443924485|"@TankThink777 @1bravewave @RepThomasMassie Wrong!!! Where is your source? Here is one (of many that you need to read).
+
+https://t.co/tSG8gWyygQ"|1268321610752122880|2022-07-03T15:37:07.000Z|"@TankThink777 @1bravewave @RepThomasMassie Wrong!!! Where is your source? Here is one (of many that you need to read).
+
+https://t.co/tSG8gWyygQ"|1|0|1519634123543007233|2022-07-03 13:57:02+00:00|1543594669128531968|@1bravewave @RepThomasMassie Israeli studies show 90% of the Covid deaths right now are from the fully vaxed.|22|0|[0.71219575, 0.26615903, 0.021645138]|0.71219575|0.26615903|0.021645138|0.0955886869861431|0.0941996955681751|0.0809150821089023|0.0630628046333112|0.0855100711497734|0.0125970735581622|-0.1727384093915343|-0.0277616019356461|-0.0341901235465116|-0.1142685416666667|1.0|0.0001720974755528|0.0055915973634955|eficaz
+258|7431|1543613489884925953|"@lidiamreyes114 @pagolf_india Y menos mal que así fue 
+
+De todas maneras es falso lo del vídeo.
+
+https://t.co/CUfHq8YTjW"|188279377|2022-07-03T15:11:49.000Z|"@lidiamreyes114 @pagolf_india Y menos mal que así fue 
+
+De todas maneras es falso lo del vídeo.
+
+https://t.co/CUfHq8YTjW"|2|0|958341777823543296|2022-07-03 14:29:50+00:00|1543602924974211073|@pagolf_india El que nos tuvo en nuestras casas 3 meses sin poder salir|2|0|[0.18519062, 0.76934564, 0.04546377]|0.18519062|0.76934564|0.04546377|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|eficaz
+259|11881|1543640720631889920|"@MikeD668 @MayraFlores2022 Biden called Trump Xenophobic.
+Which is true
+
+But one of the problems w/Trumps rhetoric is that he was literally putting Chinese/American residents lives in danger from all of the blame he placed
+
+Kids were attacking Chinese Kids by spitting on them, so🤷🏼‍♀️
+
+https://t.co/MZKxxnwa7m"|1431048941555101696|2022-07-03T17:00:01.000Z|"@MikeD668 @MayraFlores2022 Biden called Trump Xenophobic.
+Which is true
+
+But one of the problems w/Trumps rhetoric is that he was literally putting Chinese/American residents lives in danger from all of the blame he placed
+
+Kids were attacking Chinese Kids by spitting on them, so🤷🏼‍♀️
+
+https://t.co/MZKxxnwa7m"|0|0|1531257265243709441|2022-07-03 16:38:26+00:00|1543635285493403649|@Noaltfax314 @MayraFlores2022 How about for starters the ban on travel from China due to pandemic, they called him racist and even went as far as having Nancy travel to China town (with entourage) and publically claim the president is racists and everyone should visit China town, on TV in public, that is 1 .|0|0|[0.86069065, 0.13095912, 0.00835013]|0.86069065|0.13095912|0.00835013|0.1705519942342276|0.1277799262657914|0.1286831973551512|0.1253970704397431|0.1313786219578946|-0.1653345003476045|-0.0788527958805937|-0.1279515069679456|-0.1399414679941807|-0.1903342393276151|0.875|0.0003614626801237|0.0017645891915759|no eficaz
+261|429|1544155478665601027|@jimmy_dore Yep, but not the way you mean. https://t.co/LaYpQK3zSK|2178504876|2022-07-05T03:05:29.000Z|@jimmy_dore Yep, but not the way you mean. https://t.co/LaYpQK3zSK|0|0|98992586|2022-07-03 18:56:09+00:00|1543669945480818689|unbelievable https://t.co/CufTeYYfKk|927|157|[0.5679161, 0.39847672, 0.033607177]|0.5679161|0.39847672|0.033607177|0.076025862385658|0.0955030635095656|0.0670596327775961|0.0655608523496925|0.0859193478517701|-0.1883285416666666|-0.007774730458221|-0.0037560064935064|-0.0151512878787878|0.0289098529411765|0.6666666666666666|0.000161848401402|0.0074202099072565|eficaz
+263|7431|1543703796169179137|@64jaa @NunezOfficial https://t.co/O129ROyU77|1233813852359471107|2022-07-03T21:10:40.000Z|@64jaa @NunezOfficial https://t.co/O129ROyU77|0|0|544655937|2022-07-03 19:43:58+00:00|1543681976540045313|@LorenzoenMilan @NunezOfficial Yo recuerdo ese corte. Lo que dice, lo dijo tal cual. Y eso es lo más triste.....|0|0|[0.17743011, 0.61030036, 0.21226953]|0.17743011|0.61030036|0.21226953|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|no eficaz
+264|6192|1543978882260357122|"@PatrickHedrick @Mcfucius @kylenabecker No. I know it'll all be Greek to you, but the dates and pictures--especially as you scroll down--aren't hard to discern. She didn't die.
+
+https://t.co/QyVqfT2UHa"|14253233|2022-07-04T15:23:45.000Z|"@PatrickHedrick @Mcfucius @kylenabecker No. I know it'll all be Greek to you, but the dates and pictures--especially as you scroll down--aren't hard to discern. She didn't die.
+
+https://t.co/QyVqfT2UHa"|0|0|760308571007352832|2022-07-03 20:09:07+00:00|1543688308429131778|@Mcfucius @kylenabecker Dover died… unfortunately|2|0|[0.098241426, 0.64698935, 0.25476927]|0.098241426|0.64698935|0.25476927|0.1168567434097443|0.1214493444611541|0.1037002976317586|0.0874808132362092|0.0956925328131215|-0.2023130213927676|-0.1910490927572579|-0.158152177002584|-0.088243108974359|-0.2084680757018715|0.4444444444444444|0.0002015992283363|0.0024477297145969|no eficaz
+266|881|1543738004438544387|@BeeTee29715595 @444XXXXXXX444 @BobP05608794 @DrJBhattacharya @KevinBardosh https://t.co/BEb6bFMe32|3240340495|2022-07-03T23:26:36.000Z|@BeeTee29715595 @444XXXXXXX444 @BobP05608794 @DrJBhattacharya @KevinBardosh https://t.co/BEb6bFMe32|0|0|1365354444213219330|2022-07-03 21:20:30+00:00|1543706272532336640|@nivoipicombo @444XXXXXXX444 @BobP05608794 @DrJBhattacharya @KevinBardosh Early treatment is better yet.  6/6 high-risk people I know used ivermectin EARLY and all recovered well with no long covid.  ivermectin given to everyone in Uttar Pradesh stopped the pandemic there fast.  But there are future trillion$ to be lost if something unpatented works.|1|0|[0.14979619, 0.66813374, 0.18207002]|0.14979619|0.66813374|0.18207002|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|eficaz
+267|4371|1543739369047080961|@AzGotGuap @Cryptxonaire @CaptainKarite @BuzzFeed https://t.co/d9zhP3bwTC|14885388|2022-07-03T23:32:01.000Z|@AzGotGuap @Cryptxonaire @CaptainKarite @BuzzFeed https://t.co/d9zhP3bwTC|0|0|575907523|2022-07-03 22:29:26+00:00|1543723617468698627|@Cryptxonaire @davidra @CaptainKarite @BuzzFeed Wait until he finds out who owns it ...|0|0|[0.15884142, 0.6505322, 0.19062652]|0.15884142|0.6505322|0.19062652|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|eficaz
+268|202|1543987237729222656|@drsimonegold @piddlewonk https://t.co/DhTCcJdEcF|808839784336654336|2022-07-04T15:56:58.000Z|@drsimonegold @piddlewonk https://t.co/DhTCcJdEcF|0|0|806344552718045184|2022-07-03 22:33:36+00:00|1543724669169287170|"My dear friend Dr. ‘Zev’ Zelenko has just passed away.
+
+His “Zelenko Protocol” saved millions and earned him the admiration of a U.S. President among other prominent world leaders. He was an incredible fighter for truth and justice.
+
+We are incredibly saddened by the loss. https://t.co/dD4KvJpObi"|8628|1561|[0.17743011, 0.61030036, 0.21226953]|0.17743011|0.61030036|0.21226953|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|no eficaz
+272|1475|1543997099884261381|@GhitaSAndersen https://t.co/XAlpgzMYmy|445083405|2022-07-04T16:36:09.000Z|@GhitaSAndersen https://t.co/XAlpgzMYmy|0|0|1408907950354092035|2022-07-04 10:30:30+00:00|1543905082122858497|@TCDriller99 I suggest you call an Australian Insurance Company about life insurance. Not US.|0|0|[0.19920412, 0.573611, 0.22718494]|0.19920412|0.573611|0.22718494|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|no eficaz
+282|6630|1544015102504042498|@BrooksLuz3 @MiguelBellagam2 @cristianvilleco @tasnerviosho Aham... https://t.co/fQgz8rJqb3|246633564|2022-07-04T17:47:41.000Z|@BrooksLuz3 @MiguelBellagam2 @cristianvilleco @tasnerviosho Aham... https://t.co/fQgz8rJqb3|0|0|1278201803692261377|2022-07-04 17:42:42+00:00|1544013848197349380|@SdeSanty @MiguelBellagam2 @cristianvilleco @tasnerviosho Bueno Sr. Sin ética, la línea celular MRC5 que si las contiene las vacunas AstraZeneca, SÍ son de fetos abortados y no precisamente de hace 50 años.. pues estos tienen que aún estar con vida para poder extraer las células de sus riñones e hígado...|2|0|[0.1870218, 0.7232352, 0.089742936]|0.1870218|0.7232352|0.089742936|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|no eficaz
+285|2366|1544080970114121729|"@mariacaceresSV @Plandemonium89 @PetersonEspanol @Inconforme75 https://t.co/t76x7eb948
+
+https://t.co/0bPT6AMGYf
+
+https://t.co/resCSXRcnE
+
+https://t.co/dLmZRURGuZ
+
+https://t.co/nUPUvHU4Dx
+
+https://t.co/tTG2ui6xXF
+
+https://t.co/vLa4iFhb7O
+
+https://t.co/pmI95S6joN"|3308896061|2022-07-04T22:09:25.000Z|"@mariacaceresSV @Plandemonium89 @PetersonEspanol @Inconforme75 https://t.co/t76x7eb948
+
+https://t.co/0bPT6AMGYf
+
+https://t.co/resCSXRcnE
+
+https://t.co/dLmZRURGuZ
+
+https://t.co/nUPUvHU4Dx
+
+https://t.co/tTG2ui6xXF
+
+https://t.co/vLa4iFhb7O
+
+https://t.co/pmI95S6joN"|0|0|3245122350|2022-07-04 19:00:30+00:00|1544033425715347456|"@joe78man @Plandemonium89 @PetersonEspanol @Inconforme75 Los estudios de ¿quién ? ¿de las farmacéuticas que las fabrican o de su club de porristas? Por favor. 
+Lea usted el informe Campra ,Dr. en Ciencias Químicas de la Universidad de Almería."|0|0|[0.15884142, 0.6505322, 0.19062652]|0.15884142|0.6505322|0.19062652|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|eficaz
+286|343|1544127370948657152|"@GraemeNZ01 @rnz_news You mean the same Doctor that claimed the Pandemic was planned? You're seriously using his claims as reliable?
+https://t.co/Lkl80Ha4Xo"|1220357677|2022-07-05T01:13:48.000Z|"@GraemeNZ01 @rnz_news You mean the same Doctor that claimed the Pandemic was planned? You're seriously using his claims as reliable?
+https://t.co/Lkl80Ha4Xo"|0|0|817562431815680000|2022-07-04 22:57:21+00:00|1544093032357646336|@rnz_news Unlikely it can be pinned on one incident. Dr Peter Mcullough, who has testified to the US Senate on treatment of CoVid-19 said it takes a 3 hour exposure. And, Police are always at risk, being exposed to the public day-in, day-out.|0|0|[0.65228873, 0.32812303, 0.019588152]|0.65228873|0.32812303|0.019588152|0.1185616151180428|0.1334894008233706|0.091707774927965|0.101213694549572|0.0781960886466233|-0.3483451719576718|-0.1333224498337346|-0.0835531666666666|-0.230253027332145|0.0336842592592592|1.2|0.0004760903899657|0.0210466965863629|eficaz
+289|17387|1545873865250951172|@NewsCurrySL https://t.co/VXrsIN4i8I|302334909|2022-07-09T20:53:45.000Z|@NewsCurrySL https://t.co/VXrsIN4i8I|0|0|3232224414|2022-07-05 03:56:27+00:00|1544168303442026497|Director Of Qatar Company Says Life Tarnished On Learning He Has Same Name As Namal Rajapaksa. #lka #NewsCurry https://t.co/8AtSWD7HA9|370|49|[0.19920412, 0.573611, 0.22718494]|0.19920412|0.573611|0.22718494|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|no eficaz
+303|2501|1544356369796587521|@kira_wes @Evilpilaf Marcela, dijo mentiras. Está demostrado. Son hechos. https://t.co/losksRTfME|57666196|2022-07-05T16:23:45.000Z|@kira_wes @Evilpilaf Marcela, dijo mentiras. Está demostrado. Son hechos. https://t.co/losksRTfME|8|1|259873163|2022-07-05 15:14:45+00:00|1544339004212092930|@LauRobles @Evilpilaf Todo el mundo, sin excepción, mostró falta de rigurosidad en la Pandemia, que no respeta el método científico es una opinión, no un hecho que pueda demostrarse. Y, ser crítica del sistema de salud no se traduce en mentir; las críticas que le hacen no son muy rigurosas que digamos|22|0|[0.18532309, 0.7517897, 0.06288716]|0.18532309|0.7517897|0.06288716|0.1229050279329608|0.1085271317829457|0.0643274853801169|0.0706521739130434|0.1018518518518518|-0.3068590909090908|-0.2966571428571428|-0.0762545454545454|-0.0627461538461538|-0.3705545454545454|0.1111111111111111|0.0006332914785564|0.020361211376027|no eficaz
+306|2501|1544356326771511298|@salileco @CatalinaSuarezB @Fruizgomez Tal vez en el futuro te des cuenta que nuestro sistema de salud, aunque lejos de la perfección, era bueno. Ojalá la nueva ministra desempeñe un buen papel. https://t.co/MnegB8cX5k|127887137|2022-07-05T16:23:35.000Z|@salileco @CatalinaSuarezB @Fruizgomez Tal vez en el futuro te des cuenta que nuestro sistema de salud, aunque lejos de la perfección, era bueno. Ojalá la nueva ministra desempeñe un buen papel. https://t.co/MnegB8cX5k|0|0|385763460|2022-07-05 16:16:15+00:00|1544354478744281093|@felipetrujillos @CatalinaSuarezB @Fruizgomez ajá, así como reconocen que Duque es un súper ambientalista!!! La SALUD va más allá de un artículo, ve a un hospital, quédate en urgencias unas 8 horas y después ven y di que somos lo mejor!!!??|2|0|[0.11172937, 0.7885716, 0.09969904]|0.11172937|0.7885716|0.09969904|0.0705882352941176|0.028169014084507|0.0555555555555555|0.0549450549450549|0.0754716981132075|-0.05385|-0.1806|0.0898249999999999|-0.22208|-0.033725|0.0357142857142857|0.0003408410274022|0.0154931945424999|no eficaz
+314|9118|1544373551943372801|@IMCNiagara https://t.co/NBkF89jeYx|153415359|2022-07-05T17:32:02.000Z|@IMCNiagara https://t.co/NBkF89jeYx|0|0|1012546351|2022-07-05 17:16:36+00:00|1544369668059709440|Denver airport mural painted in 1994.  Of course this wasn't a plan!!  Right!! https://t.co/RecYvhey1G|1|0|[0.19920412, 0.573611, 0.22718494]|0.19920412|0.573611|0.22718494|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|no eficaz
+319|467|1544411277224804356|@SuzyP39 @PhotographixByJ @h4ndcrushed @AenesidemusOZ Riiiiiiight https://t.co/qDHb3yf0Es|742154695775490048|2022-07-05T20:01:56.000Z|@SuzyP39 @PhotographixByJ @h4ndcrushed @AenesidemusOZ Riiiiiiight https://t.co/qDHb3yf0Es|10|0|39622281|2022-07-05 18:25:16+00:00|1544386950504800256|@GeneralPeeEff @PhotographixByJ @h4ndcrushed @AenesidemusOZ It did happen in Australia|0|0|[0.024380872, 0.67870003, 0.29691917]|0.024380872|0.67870003|0.29691917|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|eficaz
+321|968|1544503416486932480|"@stoolstocks @KFCBarstool Thank god for that! Hi! Aussie here. 
+
+https://t.co/huK2MVPnSB
+
+Everything you just spewed is false. I was here and saw it with my own eyes. Two of our states we rent even in lockdown. 😂😂😂 Fucking clown. 🤡🤡🤡"|19612053|2022-07-06T02:08:04.000Z|"@stoolstocks @KFCBarstool Thank god for that! Hi! Aussie here. 
+
+https://t.co/huK2MVPnSB
+
+Everything you just spewed is false. I was here and saw it with my own eyes. Two of our states we rent even in lockdown. 😂😂😂 Fucking clown. 🤡🤡🤡"|0|0|1360451667624361993|2022-07-05 22:15:27+00:00|1544444876053430289|"@KFCBarstool Ya and your country got shut down for 2 years over a virus that has a 99.9% survival rate. 
+
+I wonder if there’s any connection there….citizens having access to firearms vs government tyranny. 
+
+We are not the same."|1|0|[0.83116126, 0.13644825, 0.032390438]|0.83116126|0.13644825|0.032390438|0.0792031878511953|0.1335695038345783|0.0963254691393086|0.097861070761762|0.0801983308293376|-0.0462300676691729|0.0463234334415584|-0.0003574479949874|0.183997876607053|-0.0922006576576576|0.2941176470588235|0.0004841541599775|0.0112409310640449|eficaz
+322|968|1544503416486932480|"@stoolstocks @KFCBarstool Thank god for that! Hi! Aussie here. 
+
+https://t.co/huK2MVPnSB
+
+Everything you just spewed is false. I was here and saw it with my own eyes. Two of our states we rent even in lockdown. 😂😂😂 Fucking clown. 🤡🤡🤡"|19612053|2022-07-06T02:08:04.000Z|"@stoolstocks @KFCBarstool Thank god for that! Hi! Aussie here. 
+
+https://t.co/huK2MVPnSB
+
+Everything you just spewed is false. I was here and saw it with my own eyes. Two of our states we rent even in lockdown. 😂😂😂 Fucking clown. 🤡🤡🤡"|0|0|1360451667624361993|2022-07-05 22:15:27+00:00|1544444876053430289|"@KFCBarstool Ya and your country got shut down for 2 years over a virus that has a 99.9% survival rate. 
+
+I wonder if there’s any connection there….citizens having access to firearms vs government tyranny. 
+
+We are not the same."|1|0|[0.83116126, 0.13644825, 0.032390438]|0.83116126|0.13644825|0.032390438|0.0792031878511953|0.1335695038345783|0.0963254691393086|0.097861070761762|0.0801983308293376|-0.0462300676691729|0.0463234334415584|-0.0003574479949874|0.183997876607053|-0.0922006576576576|0.2941176470588235|0.0004841541599775|0.0112409310640449|eficaz
+323|977|1544503416486932480|"@stoolstocks @KFCBarstool Thank god for that! Hi! Aussie here. 
+
+https://t.co/huK2MVPnSB
+
+Everything you just spewed is false. I was here and saw it with my own eyes. Two of our states we rent even in lockdown. 😂😂😂 Fucking clown. 🤡🤡🤡"|19612053|2022-07-06T02:08:04.000Z|"@stoolstocks @KFCBarstool Thank god for that! Hi! Aussie here. 
+
+https://t.co/huK2MVPnSB
+
+Everything you just spewed is false. I was here and saw it with my own eyes. Two of our states we rent even in lockdown. 😂😂😂 Fucking clown. 🤡🤡🤡"|0|0|1360451667624361993|2022-07-05 22:15:27+00:00|1544444876053430289|"@KFCBarstool Ya and your country got shut down for 2 years over a virus that has a 99.9% survival rate. 
+
+I wonder if there’s any connection there….citizens having access to firearms vs government tyranny. 
+
+We are not the same."|1|0|[0.83116126, 0.13644825, 0.032390438]|0.83116126|0.13644825|0.032390438|0.0792031878511953|0.1335695038345783|0.0963254691393086|0.097861070761762|0.0801983308293376|-0.0462300676691729|0.0463234334415584|-0.0003574479949874|0.183997876607053|-0.0922006576576576|0.2941176470588235|0.0004841541599775|0.0112409310640449|eficaz
+324|977|1544503416486932480|"@stoolstocks @KFCBarstool Thank god for that! Hi! Aussie here. 
+
+https://t.co/huK2MVPnSB
+
+Everything you just spewed is false. I was here and saw it with my own eyes. Two of our states we rent even in lockdown. 😂😂😂 Fucking clown. 🤡🤡🤡"|19612053|2022-07-06T02:08:04.000Z|"@stoolstocks @KFCBarstool Thank god for that! Hi! Aussie here. 
+
+https://t.co/huK2MVPnSB
+
+Everything you just spewed is false. I was here and saw it with my own eyes. Two of our states we rent even in lockdown. 😂😂😂 Fucking clown. 🤡🤡🤡"|0|0|1360451667624361993|2022-07-05 22:15:27+00:00|1544444876053430289|"@KFCBarstool Ya and your country got shut down for 2 years over a virus that has a 99.9% survival rate. 
+
+I wonder if there’s any connection there….citizens having access to firearms vs government tyranny. 
+
+We are not the same."|1|0|[0.83116126, 0.13644825, 0.032390438]|0.83116126|0.13644825|0.032390438|0.0792031878511953|0.1335695038345783|0.0963254691393086|0.097861070761762|0.0801983308293376|-0.0462300676691729|0.0463234334415584|-0.0003574479949874|0.183997876607053|-0.0922006576576576|0.2941176470588235|0.0004841541599775|0.0112409310640449|eficaz
+332|10403|1544744875601629184|"@rochapress @mf_escobedo Sigan votando por el me chupas de algodón 
+
+https://t.co/6QVfrf6NHJ"|1176251083|2022-07-06T18:07:32.000Z|"@rochapress @mf_escobedo Sigan votando por el me chupas de algodón 
+
+https://t.co/6QVfrf6NHJ"|0|0|91209691|2022-07-06 15:41:04+00:00|1544708014313246722|35 mujeres al día llaman al 911 por sufrir algún tipo de violencia en #Puebla https://t.co/oORb8mHVLS vía @mf_escobedo|1|1|[0.08723492, 0.8563268, 0.056438312]|0.08723492|0.8563268|0.056438312|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|no eficaz
+335|3617|1544720423543357440|"@aggrevatee @wil_da_beast630 Here's another one...
+https://t.co/OGNULyChG8"|372324029|2022-07-06T16:30:23.000Z|"@aggrevatee @wil_da_beast630 Here's another one...
+https://t.co/OGNULyChG8"|0|0|372324029|2022-07-06 16:28:49+00:00|1544720030327361537|"@aggrevatee @wil_da_beast630 My tweet was mostly in jest but USA Today having to put out a fact check about miscarriages and menstrual changes related to the covid vaccine shows that there's lots of misinformation out there.
+https://t.co/N6SzzrbOJi"|0|0|[0.12055853, 0.80611175, 0.07332973]|0.12055853|0.80611175|0.07332973|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|no eficaz
+340|3193|1545388758090092544|@NaybobNattering @David83823494 https://t.co/xeEFffjCmO|1362062511688802308|2022-07-08T12:46:06.000Z|@NaybobNattering @David83823494 https://t.co/xeEFffjCmO|0|0|2785249942|2022-07-07 13:59:22+00:00|1545044807323594755|"@David83823494 Can you cite-link particulars (4W's) re this meeting, source video w/clip time stamp?  
+The reason I ask: anyone can create a fake. If genuine, provenance must be certified. Otherwise, its mindlessly parroted counterfactual tripe which damages credibility of the resistance."|4|0|[0.17743011, 0.61030036, 0.21226953]|0.17743011|0.61030036|0.21226953|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|no eficaz
+345|2021|1545199800634806273|"@truthwizzerd @FrankGrimes_Jr I did, and all I found were people's misinterpretations for why the CDC pulled it's EUA for PCR tests.  It wasn't due to their lack of accuracy, but economics:
+
+https://t.co/IzP5wr2fTX"|2738046367|2022-07-08T00:15:15.000Z|"@truthwizzerd @FrankGrimes_Jr I did, and all I found were people's misinterpretations for why the CDC pulled it's EUA for PCR tests.  It wasn't due to their lack of accuracy, but economics:
+
+https://t.co/IzP5wr2fTX"|0|0|1258142113734316032|2022-07-07 23:20:24+00:00|1545185997998022656|@smarzeli @FrankGrimes_Jr Oh yes they most certainly did. Go back and check December 2021|0|0|[0.6617362, 0.31371278, 0.024551118]|0.6617362|0.31371278|0.024551118|0.1700322189919007|0.0989774240307812|0.1115368746805717|0.0978085820375539|0.0907151469473708|-0.219759972394755|-0.1399322786783042|-0.1518148367895545|0.0165184896249002|-0.1204490056022409|0.4444444444444444|0.0010438819623298|0.0074878418396222|no eficaz
+348|10607|1545201240065409025|"@wwefan0506 @CanadaRiggs1 @y2TzVHHxFF @THISLANDIA @FoxNews @MarshaBlackburn https://t.co/0eIS8n2zLS
+
+this is an old article... but double the mortality rate.
+
+How is it you associate homelessness with 100% mortality?  No one's ever suggested that."|1284503726154293248|2022-07-08T00:20:58.000Z|"@wwefan0506 @CanadaRiggs1 @y2TzVHHxFF @THISLANDIA @FoxNews @MarshaBlackburn https://t.co/0eIS8n2zLS
+
+this is an old article... but double the mortality rate.
+
+How is it you associate homelessness with 100% mortality?  No one's ever suggested that."|0|0|44057309|2022-07-08 00:13:27+00:00|1545199346605506560|"@CallTime4 @CanadaRiggs1 @y2TzVHHxFF @THISLANDIA @FoxNews @MarshaBlackburn You're not aware, because you didn't listen, good for you. 
+
+The spread was slowed becasue people stopped buying into the hype, and the media basically shuffled it down the list.
+
+If this disease was as bad as it supposedly was the homeless population would be dead."|0|0|[0.6678654, 0.3066933, 0.025441395]|0.6678654|0.3066933|0.025441395|0.079039186137245|0.1084109333343062|0.0518511856212467|0.047248198408378|0.0978767741641412|-0.1689042592592592|-0.0368771749084248|-0.1655398809523809|-0.0281241666666666|0.0130317857142856|0.3333333333333333|0.0007360528609189|0.0070974285744994|no eficaz
+355|874|1545407857373372418|@sergio830_ @LaCSolitaria lo de la ivermectina es falso... https://t.co/6i1caDsNdG|581550300|2022-07-08T14:02:00.000Z|@sergio830_ @LaCSolitaria lo de la ivermectina es falso... https://t.co/6i1caDsNdG|4|0|2535774600|2022-07-08 11:35:38+00:00|1545371025117945857|@LaCSolitaria Promovió la natalidad sin recurrir a inmigración de ningún tipo, así como proyectos de reindustrialización en ciertas regiones. Además, desconfiaba de las vacvnas y en Japón se optó por tratar con ivermectina a los contagiados, obteniendo resultados mucho mejores que en occidente|62|18|[0.09803818, 0.8519961, 0.04996568]|0.09803818|0.8519961|0.04996568|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|no eficaz
+358|866|1545467282847141892|"@MikeAlbanese @BenjaminiteMD @pmtw1173 @tzimmer_history @OlufemiOTaiwo Are you sure? Because DeSantis underreported Florida's numbers.
+
+https://t.co/A3Ux6xlGAJ"|104917046|2022-07-08T17:58:08.000Z|"@MikeAlbanese @BenjaminiteMD @pmtw1173 @tzimmer_history @OlufemiOTaiwo Are you sure? Because DeSantis underreported Florida's numbers.
+
+https://t.co/A3Ux6xlGAJ"|0|0|18108243|2022-07-08 16:25:32+00:00|1545443979998658562|"@marklungo @BenjaminiteMD @pmtw1173 @tzimmer_history @OlufemiOTaiwo what here do you disagree with: ""They watched blue states shut down society, mandate medical procedures, and force kids out of school for two years, while DeSantis followed the science and the Constitution to keep his state open—and had a lower COVID death rate than New York."""|1|0|[0.51222557, 0.46344885, 0.02432551]|0.51222557|0.46344885|0.02432551|0.0938127090301003|0.0948224632298321|0.0801424343322234|0.0665535444947209|0.0591397849462364|-0.0372318965517241|0.1616771551724138|0.0340793333333333|0.1806702380952381|-0.11301125|0.2222222222222222|0.0002550895656409|0.0159671481922749|no eficaz
+364|5282|1545616733570048002|@Lindsay46791735 @aaronhoyland https://t.co/2ZDlByYeMq|22198772|2022-07-09T03:52:00.000Z|@Lindsay46791735 @aaronhoyland https://t.co/2ZDlByYeMq|0|0|1495816591585406977|2022-07-08 19:25:17+00:00|1545489215361691648|"@bonbon663 @aaronhoyland https://t.co/RXh46mUoCs
+Lmfao..you were saying.."|0|0|[0.17743011, 0.61030036, 0.21226953]|0.17743011|0.61030036|0.21226953|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|no eficaz
+368|383|1546078597856763907|@HalCranmer @kawherp @AmyGDalaMD Did you actually read the document? Notice the “none of these deaths were considered related…” but more information for you here https://t.co/ULdmnCVDCi|19246429|2022-07-10T10:27:17.000Z|@HalCranmer @kawherp @AmyGDalaMD Did you actually read the document? Notice the “none of these deaths were considered related…” but more information for you here https://t.co/ULdmnCVDCi|0|0|3142683414|2022-07-09 01:18:18+00:00|1545578056353341440|@mraustin @kawherp @AmyGDalaMD Pfizer study. 14 unvaccinated people died. 15 vaccinated people died. Controlled experiment. https://t.co/UK4gfl1faa|0|0|[0.2955765, 0.6698817, 0.034541726]|0.2955765|0.6698817|0.034541726|0.122453546057922|0.0971790433189218|0.0862518070901298|0.096836415052136|0.0764665754479805|-0.0174255292760887|-0.0526095049130763|-0.0750962718420701|0.02042583090379|-0.1437955542473399|1.4|0.0002945824260187|0.0038466686391687|no eficaz
+370|4772|1545801042767405056|"@Pisces20203 @nickdamian0 @KempoJesse @farid__jalali He's a quack.
+https://t.co/IWh7DHExnw"|848642218139111425|2022-07-09T16:04:22.000Z|"@Pisces20203 @nickdamian0 @KempoJesse @farid__jalali He's a quack.
+https://t.co/IWh7DHExnw"|1|0|1315302261560500231|2022-07-09 04:27:54+00:00|1545625770843783168|@nickdamian0 @KempoJesse @farid__jalali Speaking of T-cells... after 4 shots, avoiding crowds, N95 masking, and till catching it.. I’d have a few questions if I were you. Dr. Ryan Cole might have an answer: https://t.co/aVLaANxgGC|4|1|[0.84662503, 0.13905685, 0.0143180825]|0.84662503|0.13905685|0.0143180825|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|no eficaz
+371|4019|1545752566318891008|"@axandana McCullough disintió de las recomendaciones de salud pública y contribuyó a la desinformación sobre la #COVID19.
+
+https://t.co/JyN3rEZvJH"|356557159|2022-07-09T12:51:45.000Z|"@axandana McCullough disintió de las recomendaciones de salud pública y contribuyó a la desinformación sobre la #COVID19.
+
+https://t.co/JyN3rEZvJH"|4|2|1326657694598565888|2022-07-09 05:30:19+00:00|1545641479363756033|"@DavidForeroMD Con todo respeto,edúquese adecuadamente. Acá un material de un destacado especialista del área:
+
+https://t.co/ZRertNBPaF"|4|3|[0.054068197, 0.88906467, 0.05686709]|0.054068197|0.88906467|0.05686709|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|no eficaz
+375|17387|1545874608120897536|@Sanath07 @KumarSanga2 https://t.co/VXrsIN4i8I|302334909|2022-07-09T20:56:42.000Z|@Sanath07 @KumarSanga2 https://t.co/VXrsIN4i8I|0|0|194028861|2022-07-09 09:05:58+00:00|1545695749177896960|The siege is over. Your bastion has fallen. Aragalaya and peoples power has won. Please have the dignity to resign now ! #GoHomeGota|9586|1124|[0.17743011, 0.61030036, 0.21226953]|0.17743011|0.61030036|0.21226953|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|no eficaz
+376|17387|1545874555155218432|@KumarSanga2 https://t.co/VXrsIN4i8I|302334909|2022-07-09T20:56:29.000Z|@KumarSanga2 https://t.co/VXrsIN4i8I|0|0|350224247|2022-07-09 09:46:46+00:00|1545706015072583680|This is for our future. https://t.co/pSMmo4o81Q|89346|13258|[0.19920412, 0.573611, 0.22718494]|0.19920412|0.573611|0.22718494|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|no eficaz
+377|1839|1548501856149614592|"@Sacha_Dobler Be smarter.
+https://t.co/cRrfImtehF"|1525660888069459968|2022-07-17T02:56:26.000Z|"@Sacha_Dobler Be smarter.
+https://t.co/cRrfImtehF"|0|0|912033288017018880|2022-07-09 10:49:40+00:00|1545721843809665024|If the CEO of Pfizer refuses to take his own C. Vaccine – God help you if you take the next shot https://t.co/daURiX2yTM|1|0|[0.33853066, 0.55830723, 0.10316198]|0.33853066|0.55830723|0.10316198|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|no eficaz
+386|2775|1548345894726090753|@ChinVicks @AngryAmygdala @DaemonAAc @BostonGlobe False. https://t.co/ZZ5uWx6MlO|1235933572759986176|2022-07-16T16:36:42.000Z|@ChinVicks @AngryAmygdala @DaemonAAc @BostonGlobe False. https://t.co/ZZ5uWx6MlO|0|0|1297607532723175425|2022-07-09 17:24:13+00:00|1545821134695940097|@AngryAmygdala @Clem3Dkc @DaemonAAc @BostonGlobe You're missing my point. The spike is toxic regardless of virus infection or vax|8|0|[0.63285583, 0.34466308, 0.02248104]|0.63285583|0.34466308|0.02248104|0.16|0.3950617283950617|0.1632653061224489|0.1976744186046511|0.2448979591836734|-0.098975|-0.099040625|-0.1620812499999999|0.1164882352941176|-0.0039416666666666|0.2|0.0094605066275896|0.0118010606219933|eficaz
+389|1116|1545852790202851336|"@SummnaS @welshcol71 @magmarup @TheFreds Further explained here: 
+
+https://t.co/47rjhIh91N
+
+Before you reply, have a think about how likely it is BG would be announcing intentional genocide to the entire world😂"|1528771225736060930|2022-07-09T19:30:00.000Z|"@SummnaS @welshcol71 @magmarup @TheFreds Further explained here: 
+
+https://t.co/47rjhIh91N
+
+Before you reply, have a think about how likely it is BG would be announcing intentional genocide to the entire world😂"|0|0|1236921822030884865|2022-07-09 19:15:59+00:00|1545849262981783552|"@mulletron60 @welshcol71 @magmarup @TheFreds Go watch his Ted talk, titled “Innovating to Zero”.
+
+If I get some time later, I’ll find it for you. 
+
+As for ‘people have more kids in case they die’… that’s not such a bright take. Nobody, NOBODY, says “let me have another child just in case this one dies”"|0|0|[0.64498687, 0.33671388, 0.01829914]|0.64498687|0.33671388|0.01829914|0.1204120490527185|0.0840243803573693|0.1006327972237333|0.0730202155042702|0.0833830410856995|-0.2556695165381141|-0.0272006235431235|-0.075047221394079|-0.0977027448599355|-0.1794811356011808|0.6|0.0003448576967575|0.0082068619837387|no eficaz
+395|1839|1548495835234676736|@Rosechic7 https://t.co/HQhBlZQVTH|1525660888069459968|2022-07-17T02:32:31.000Z|@Rosechic7 https://t.co/HQhBlZQVTH|0|0|1101530253091110917|2022-07-10 03:16:17+00:00|1545970134862286848|And isn't he unjaxd? 😂https://t.co/Pm3taINw37|5|1|[0.19920412, 0.573611, 0.22718494]|0.19920412|0.573611|0.22718494|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|no eficaz
+396|4772|1546105027403681792|"@calaMIGHTYjane @JohnBoweActor You trust that this guy is 100% right? If so what do you know that we don't?
+
+https://t.co/IAwGsUi1d6 https://t.co/VhKnAy6Knt"|4018932694|2022-07-10T12:12:18.000Z|"@calaMIGHTYjane @JohnBoweActor You trust that this guy is 100% right? If so what do you know that we don't?
+
+https://t.co/IAwGsUi1d6 https://t.co/VhKnAy6Knt"|0|0|1304522197441155072|2022-07-10 06:11:58+00:00|1546014345397673985|"Yes John💯, Yes Ryan💯
+
+Parents, listen and comprehend. 🙏
+
+‘It is medically insane.
+
+Statistically, healthy children Covid is a ZERO Risk to them.
+
+Omicron in children is a sniffle.” https://t.co/uFILZF1Qga"|63|20|[0.4076368, 0.5491339, 0.043229267]|0.4076368|0.5491339|0.043229267|0.1256098525408181|0.124060565097089|0.1293650883937309|0.139992297177039|0.1102939095805384|0.0560569285399345|0.0327450424865831|0.1563683978517414|0.1121278637566137|0.036961103219697|1.0|0.0001144027711317|0.0028790972729103|no eficaz
+401|4772|1546177842328788992|"@drcole12 @TexasLindsay @ChildrensHD https://t.co/2350lufSRd
+
+Ok cool Ryan.
+
+Can you show me your h-index?
+
+Your published scientifical papers?
+
+Anything?"|1883979798|2022-07-10T17:01:38.000Z|"@drcole12 @TexasLindsay @ChildrensHD https://t.co/2350lufSRd
+
+Ok cool Ryan.
+
+Can you show me your h-index?
+
+Your published scientifical papers?
+
+Anything?"|2|0|1375490702373646336|2022-07-10 16:57:14+00:00|1546176735066087425|@waslosmitdir @TexasLindsay @ChildrensHD You believe the media schills! Ha! Their defamation suit from me is on its way. Then you will see why to never believe that rag.|2|0|[0.00828822, 0.43578804, 0.55592364]|0.00828822|0.43578804|0.55592364|0.0109890109890109|0.0316455696202531|0.0208333333333333|0.0128205128205128|0.0056818181818181|-0.61675|-0.0906999999999999|0.085|0.11315|-0.5994|0.0909090909090909|0.0001022631531126|0.13051804925|eficaz
+404|869|1546272266480406528|@rickshade @Trumpin2024_ https://t.co/uZUz6irAom|34900978|2022-07-10T23:16:51.000Z|@rickshade @Trumpin2024_ https://t.co/uZUz6irAom|4|0|22622602|2022-07-10 19:31:28+00:00|1546215546693238785|@Trumpin2024_ Is this true?|1|0|[0.17743011, 0.61030036, 0.21226953]|0.17743011|0.61030036|0.21226953|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|eficaz
+405|869|1546272266480406528|@rickshade @Trumpin2024_ https://t.co/uZUz6irAom|34900978|2022-07-10T23:16:51.000Z|@rickshade @Trumpin2024_ https://t.co/uZUz6irAom|4|0|22622602|2022-07-10 19:31:28+00:00|1546215546693238785|@Trumpin2024_ Is this true?|1|0|[0.17743011, 0.61030036, 0.21226953]|0.17743011|0.61030036|0.21226953|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|eficaz
+406|882|1546272266480406528|@rickshade @Trumpin2024_ https://t.co/uZUz6irAom|34900978|2022-07-10T23:16:51.000Z|@rickshade @Trumpin2024_ https://t.co/uZUz6irAom|4|0|22622602|2022-07-10 19:31:28+00:00|1546215546693238785|@Trumpin2024_ Is this true?|1|0|[0.17743011, 0.61030036, 0.21226953]|0.17743011|0.61030036|0.21226953|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|eficaz
+407|882|1546272266480406528|@rickshade @Trumpin2024_ https://t.co/uZUz6irAom|34900978|2022-07-10T23:16:51.000Z|@rickshade @Trumpin2024_ https://t.co/uZUz6irAom|4|0|22622602|2022-07-10 19:31:28+00:00|1546215546693238785|@Trumpin2024_ Is this true?|1|0|[0.17743011, 0.61030036, 0.21226953]|0.17743011|0.61030036|0.21226953|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|eficaz
+408|2714|1546308172725379072|"@tylerzchuck @profnfenton Ah, yes -- Malone. I figured his name would eventually pop-up here.🙄
+https://t.co/nA8ivoOFMN
+https://t.co/twv8sjd4bU
+Refresh my memory -- whatever happened to his studies on the efficacy of ivermectin and hydroxychloroquine as treatments for Covid?🤔"|2221157095|2022-07-11T01:39:32.000Z|"@tylerzchuck @profnfenton Ah, yes -- Malone. I figured his name would eventually pop-up here.🙄
+https://t.co/nA8ivoOFMN
+https://t.co/twv8sjd4bU
+Refresh my memory -- whatever happened to his studies on the efficacy of ivermectin and hydroxychloroquine as treatments for Covid?🤔"|0|0|1518706273918799873|2022-07-11 01:05:46+00:00|1546299675791093760|@RobertCNott @profnfenton And they have. Robert Malone posted some interesting data today, in fact.|0|0|[0.3407658, 0.5644895, 0.094744734]|0.3407658|0.5644895|0.094744734|0.0562844414807405|0.0612316604963663|0.0632249499266892|0.0914941192049086|0.0466862922705313|0.274913125|-0.056452380952381|0.0593922023809523|-0.0272167857142857|0.0405104166666666|0.2352941176470588|0.0002808131668585|0.0169300281737785|no eficaz
+411|1839|1548502155706830849|"@evanwecksell @TyTheFisch I don't understand your rambling, but the Pfizer CEO is vaccinated. 
+https://t.co/cRrfImtehF"|1525660888069459968|2022-07-17T02:57:38.000Z|"@evanwecksell @TyTheFisch I don't understand your rambling, but the Pfizer CEO is vaccinated. 
+https://t.co/cRrfImtehF"|0|0|25240664|2022-07-11 04:00:35+00:00|1546343670823149569|@TyTheFisch The D's could have just branded it the 'trump vaccine,' but I guess you can't throw the CDC and unvaxxed Pfizer CEO under the bus.|2|0|[0.3435925, 0.5917354, 0.064672045]|0.3435925|0.5917354|0.064672045|0.083254449072321|0.089126559714795|0.0531326781326781|0.0590606952163016|0.048076923076923|-0.1450964285714286|-0.2477749999999999|0.0315638888888888|0.03044375|0.0566749999999999|0.3333333333333333|0.0003415266256184|0.0181361705881302|no eficaz
+412|1141|1548928044500402177|@cotterill_david @TelKel81 https://t.co/XtshQsvZQl|1323823278717362177|2022-07-18T07:09:58.000Z|@cotterill_david @TelKel81 https://t.co/XtshQsvZQl|0|0|590403597|2022-07-11 10:15:15+00:00|1546437960849145857|Whilst you were distracted by Boris resigning, the UK Gov. quietly published a report confirming that the vaccinated population as a whole accounted for a shocking 94% of all Covid-19 deaths in April and May 2022 with the unvaccinated accounting for just 6% of all Covid-19 deaths|35012|17141|[0.17743011, 0.61030036, 0.21226953]|0.17743011|0.61030036|0.21226953|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|no eficaz
+416|383|1546557681430847488|"@g3dmund @piersmorgan Yeah, he probably did 'his own research' unlike those that think the Pfizer documents proved anything.
+https://t.co/gzuyqOpyya"|19587177|2022-07-11T18:10:59.000Z|"@g3dmund @piersmorgan Yeah, he probably did 'his own research' unlike those that think the Pfizer documents proved anything.
+https://t.co/gzuyqOpyya"|1|0|898950393526460416|2022-07-11 13:58:26+00:00|1546494126727860225|@piersmorgan As a diligent journalist I'm sure you have spent a good amount of time reading through the documents Pfizer have been court ordered to release.|196|1|[0.32394624, 0.6092252, 0.06682856]|0.32394624|0.6092252|0.06682856|0.0582510614609211|0.0834439140770921|0.0742630291772704|0.0764744550190784|0.0718231644941799|-0.1975981118881118|0.0555280521047579|0.0177433523592085|-0.0023087407407407|-0.1350982485569985|0.8333333333333334|8.5386933102844e-05|0.0117497915980685|no eficaz
+419|3231|1546569725697789954|"@1127_wolf @aerophoto2 Answered my own question thanks to this ""FACKT CHUCK!""
+https://t.co/6tXsXo5LXn"|161094215|2022-07-11T18:58:51.000Z|"@1127_wolf @aerophoto2 Answered my own question thanks to this ""FACKT CHUCK!""
+https://t.co/6tXsXo5LXn"|0|0|161094215|2022-07-11 18:56:28+00:00|1546569128512724993|@1127_wolf @aerophoto2 When and where is this from, and who is the guest speaker?|0|0|[0.38006407, 0.4616565, 0.15827946]|0.38006407|0.4616565|0.15827946|0.067750677506775|0.0810164754339511|0.0775432124069139|0.1127417519908987|0.0206611570247933|0.126555|0.1885109195402299|0.1430090909090909|0.3603962962962962|0.04088|0.3333333333333333|0.0011064078714233|0.0139659664991388|eficaz
+422|2906|1546738017360089093|"@Bay1La @Forrimayor @LaEtxebarria Es un profesor de immunología, no es desarrollador de ninguna de las vacunas que nos están poniendo y que fueron aceptadas por el EMA. 
+Y de nuevo poneis lo que dice alguién que no aportó pruebas de lo que dice :
+https://t.co/EjtvbZNJlg"|897139235681165315|2022-07-12T06:07:34.000Z|"@Bay1La @Forrimayor @LaEtxebarria Es un profesor de immunología, no es desarrollador de ninguna de las vacunas que nos están poniendo y que fueron aceptadas por el EMA. 
+Y de nuevo poneis lo que dice alguién que no aportó pruebas de lo que dice :
+https://t.co/EjtvbZNJlg"|0|0|865329283|2022-07-11 20:38:54+00:00|1546594907153907712|"@1492_Michel @Forrimayor @LaEtxebarria Por si entiendes inglés. Este es uno de los desarrolladores de la ""vacuna"" ARNm para Covid. Byram Bridle admitiendo su peligrosidad https://t.co/5FX17Tk4PO"|1|0|[0.17729226, 0.7611441, 0.061563574]|0.17729226|0.7611441|0.061563574|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|no eficaz
+431|5113|1547089937920671744|@mk_hostile17 @gabicbayly @Kathryn2333 @JohnBoweActor https://t.co/JvfpEiasfz|1338193406246445057|2022-07-13T05:25:59.000Z|@mk_hostile17 @gabicbayly @Kathryn2333 @JohnBoweActor https://t.co/JvfpEiasfz|1|0|74845751|2022-07-12 09:15:03+00:00|1546785197047402497|@EnderLever @gabicbayly @Kathryn2333 @JohnBoweActor You clearly haven’t looked at the data. Go look at VAERS and compare mRNA deaths with flu vaccine deaths. Don’t forget to normalise by population uptake. Compare 2020 flu vaccine deaths to 2021 mRNA vaccine deaths.|2|1|[0.15884142, 0.6505322, 0.19062652]|0.15884142|0.6505322|0.19062652|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|no eficaz
+434|343|1546871592474517505|"@heather56781452 @rossi_rossi @Arnoldsdesign This Dr McCollough who came out with the following nonsense? 😂
+https://t.co/j8MpUQ3O4N
+https://t.co/nleDbzBHgL"|101027857|2022-07-12T14:58:21.000Z|"@heather56781452 @rossi_rossi @Arnoldsdesign This Dr McCollough who came out with the following nonsense? 😂
+https://t.co/j8MpUQ3O4N
+https://t.co/nleDbzBHgL"|0|0|1425522039775977475|2022-07-12 14:33:53+00:00|1546865434795732992|@rossi_rossi @Arnoldsdesign Have you checked out the study?  Dr McCullough verified them.  Do you watch anything besides MSM?  Why would Sweden want to publish false results?  What would be in it for them?|2|0|[0.54918975, 0.41196647, 0.038843922]|0.54918975|0.41196647|0.038843922|0.0599663870776987|0.0708878847564978|0.0826954620010934|0.067507398968073|0.0688876796259345|-0.2703817391304348|-0.1069271794871794|-0.0341757142857142|-0.1263593390804597|-0.1272732142857142|0.2222222222222222|6.752154760548322e-05|0.0073491663421191|no eficaz
+436|1839|1548497038601375745|"@LorenzoB215 Pfizer CEO is vaccinated.
+https://t.co/HQhBlZQVTH"|1525660888069459968|2022-07-17T02:37:18.000Z|"@LorenzoB215 Pfizer CEO is vaccinated.
+https://t.co/HQhBlZQVTH"|0|0|1518799466781974528|2022-07-12 18:15:16+00:00|1546921146125352961|"Are you seeing these jackasses saying I had COVID and I would've died if I didn't get the shot. Even after the CEO of Pfizer refuse the vaccine for him and his family you morons still want to give it 2 ur kids. 
+12% protection 4 one week. WAKE UP #DoNotComply"|0|1|[0.046791304, 0.7981915, 0.1550172]|0.046791304|0.7981915|0.1550172|0.0657894736842105|0.0606060606060606|0.0454545454545454|0.0579710144927536|0.0|-0.3283|-0.43355|-0.15225|-0.0810999999999999|0.0|0.25|0.0007161391455796|0.03185478925|no eficaz
+438|2490|1547502497941667840|@jimenezlessons4 https://t.co/rC0lhpSghU|1498255182211264519|2022-07-14T08:45:21.000Z|@jimenezlessons4 https://t.co/rC0lhpSghU|0|0|1472295432806182919|2022-07-12 19:59:33+00:00|1546947389893890055|"Asesinato del ADN HUMANO:
+
+Científicos japoneses capturan bajo el microscopio como la proteína espiga de la vacuna ARNm corta trazas del ADN humano: 
+😐 https://t.co/OsvnquFFAl"|4455|4024|[0.19920412, 0.573611, 0.22718494]|0.19920412|0.573611|0.22718494|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|eficaz
+439|7431|1546959512426389504|"Dejo enlace para que lo veaís, es AFP 
+
+https://t.co/Ko9qANn3F2"|975774212274171904|2022-07-12T20:47:43.000Z|"Dejo enlace para que lo veaís, es AFP 
+
+https://t.co/Ko9qANn3F2"|1|1|975774212274171904|2022-07-12 20:46:41+00:00|1546959252421484545|Otro bulo de Vox, investigad 10 segundos y veréis que la entrevista está cortada. Vox os manipula como quiere, espabilad un poco https://t.co/JXKtn3mp6f|5|1|[0.07297739, 0.8693626, 0.057659954]|0.07297739|0.8693626|0.057659954|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|no eficaz
+444|1593|1547628666560999424|@Grinbergg45 https://t.co/nJ2zZ0AUQe.. He's a quack and grifter..|741771734|2022-07-14T17:06:42.000Z|@Grinbergg45 https://t.co/nJ2zZ0AUQe.. He's a quack and grifter..|0|0|439468247|2022-07-13 09:48:05+00:00|1547155899965399042|"""believe in the science"" except when the scientist who made the mRNA technology speaks out against the vaccine. 
+LMAO 😂
+I'm so glad I'm not an NPC, aren't you?"|76|17|[0.9003865, 0.091883786, 0.0077297734]|0.9003865|0.091883786|0.0077297734|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|no eficaz
+446|1094|1547232784204398592|"@SmartMeterSuck @WChrisNunn Nonsense. 
+
+https://t.co/7kmo4GLDRQ"|35462454|2022-07-13T14:53:36.000Z|"@SmartMeterSuck @WChrisNunn Nonsense. 
+
+https://t.co/7kmo4GLDRQ"|0|0|1536713320203374592|2022-07-13 14:51:50+00:00|1547232340316790785|@hexhibit @WChrisNunn It doesn't mitigate anything. It makes you 3X as likely to catch Covid, and destroys your innate immune system by reducing your N-antibody response. VAIDS and ADE are the result.|7|1|[0.48679107, 0.45723575, 0.055973183]|0.48679107|0.45723575|0.055973183|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|no eficaz
+454|10683|1547432363378057216|@RossBettsy @codeofvets @Nick_Kupper @TuckerCarlson https://t.co/AdKQnda4xn|51596668|2022-07-14T04:06:39.000Z|@RossBettsy @codeofvets @Nick_Kupper @TuckerCarlson https://t.co/AdKQnda4xn|0|0|1434619021370998784|2022-07-14 04:00:14+00:00|1547430748474511362|@beatlecop @codeofvets @Nick_Kupper @TuckerCarlson Refusing to take an emergency use authorized shot and being penalized for it IS a violation of the Nuremberg code.|1|0|[0.15884142, 0.6505322, 0.19062652]|0.15884142|0.6505322|0.19062652|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|no eficaz
+456|922|1547606117903060992|"@psznemiensko @Ex_Convictt Again, it's been debunked. God you just believe anything you read on the internet, don't you?
+
+https://t.co/xM6DkwwcDr"|1105400690195623936|2022-07-14T15:37:06.000Z|"@psznemiensko @Ex_Convictt Again, it's been debunked. God you just believe anything you read on the internet, don't you?
+
+https://t.co/xM6DkwwcDr"|0|0|900702215391903746|2022-07-14 13:01:57+00:00|1547567073538166793|"@benefits_brian @Ex_Convictt Then there's a Polish doctor, Franc Zalewski - who found literally the same thing she did;- a net made out of graphene particles under the influence of electromagnetic waves. 
+https://t.co/IJwdHc550V starts from hour, 20 min (1:20:50) /3"|0|0|[0.7544028, 0.22397207, 0.021625048]|0.7544028|0.22397207|0.021625048|0.0895293790030631|0.0908101504803153|0.0857942172375161|0.0828391516849866|0.0868683106227438|0.120723732718894|-0.1130827215337853|-0.061228316993464|0.0343160852713178|-0.0464940476190476|0.6|9.889347790187637e-06|0.0083962761065362|eficaz
+457|922|1547606117903060992|"@psznemiensko @Ex_Convictt Again, it's been debunked. God you just believe anything you read on the internet, don't you?
+
+https://t.co/xM6DkwwcDr"|1105400690195623936|2022-07-14T15:37:06.000Z|"@psznemiensko @Ex_Convictt Again, it's been debunked. God you just believe anything you read on the internet, don't you?
+
+https://t.co/xM6DkwwcDr"|0|0|900702215391903746|2022-07-14 13:01:57+00:00|1547567073538166793|"@benefits_brian @Ex_Convictt Then there's a Polish doctor, Franc Zalewski - who found literally the same thing she did;- a net made out of graphene particles under the influence of electromagnetic waves. 
+https://t.co/IJwdHc550V starts from hour, 20 min (1:20:50) /3"|0|0|[0.7544028, 0.22397207, 0.021625048]|0.7544028|0.22397207|0.021625048|0.0895293790030631|0.0908101504803153|0.0857942172375161|0.0828391516849866|0.0868683106227438|0.120723732718894|-0.1130827215337853|-0.061228316993464|0.0343160852713178|-0.0464940476190476|0.6|9.889347790187637e-06|0.0083962761065362|eficaz
+458|936|1547606117903060992|"@psznemiensko @Ex_Convictt Again, it's been debunked. God you just believe anything you read on the internet, don't you?
+
+https://t.co/xM6DkwwcDr"|1105400690195623936|2022-07-14T15:37:06.000Z|"@psznemiensko @Ex_Convictt Again, it's been debunked. God you just believe anything you read on the internet, don't you?
+
+https://t.co/xM6DkwwcDr"|0|0|900702215391903746|2022-07-14 13:01:57+00:00|1547567073538166793|"@benefits_brian @Ex_Convictt Then there's a Polish doctor, Franc Zalewski - who found literally the same thing she did;- a net made out of graphene particles under the influence of electromagnetic waves. 
+https://t.co/IJwdHc550V starts from hour, 20 min (1:20:50) /3"|0|0|[0.7544028, 0.22397207, 0.021625048]|0.7544028|0.22397207|0.021625048|0.0895293790030631|0.0908101504803153|0.0857942172375161|0.0828391516849866|0.0868683106227438|0.120723732718894|-0.1130827215337853|-0.061228316993464|0.0343160852713178|-0.0464940476190476|0.6|9.889347790187637e-06|0.0083962761065362|eficaz
+459|936|1547606117903060992|"@psznemiensko @Ex_Convictt Again, it's been debunked. God you just believe anything you read on the internet, don't you?
+
+https://t.co/xM6DkwwcDr"|1105400690195623936|2022-07-14T15:37:06.000Z|"@psznemiensko @Ex_Convictt Again, it's been debunked. God you just believe anything you read on the internet, don't you?
+
+https://t.co/xM6DkwwcDr"|0|0|900702215391903746|2022-07-14 13:01:57+00:00|1547567073538166793|"@benefits_brian @Ex_Convictt Then there's a Polish doctor, Franc Zalewski - who found literally the same thing she did;- a net made out of graphene particles under the influence of electromagnetic waves. 
+https://t.co/IJwdHc550V starts from hour, 20 min (1:20:50) /3"|0|0|[0.7544028, 0.22397207, 0.021625048]|0.7544028|0.22397207|0.021625048|0.0895293790030631|0.0908101504803153|0.0857942172375161|0.0828391516849866|0.0868683106227438|0.120723732718894|-0.1130827215337853|-0.061228316993464|0.0343160852713178|-0.0464940476190476|0.6|9.889347790187637e-06|0.0083962761065362|eficaz
+468|1839|1548504587790741505|"@PasajeroToro @PennyMordaunt Yes, he is vaccinated, but that doesn't fit your narrative, does it?
+https://t.co/cRrfImtehF"|1525660888069459968|2022-07-17T03:07:18.000Z|"@PasajeroToro @PennyMordaunt Yes, he is vaccinated, but that doesn't fit your narrative, does it?
+https://t.co/cRrfImtehF"|0|0|1508509963114717195|2022-07-14 20:02:27+00:00|1547672897048563712|@PennyMordaunt Here you go: https://t.co/aWH7AxtLhi|1|1|[0.5780683, 0.39446718, 0.027464498]|0.5780683|0.39446718|0.027464498|0.060427413411938|0.061900610287707|0.0935672514619882|0.1116666666666666|0.1220760233918128|-0.1525624999999999|-0.2784999999999999|0.0792399999999999|0.2276499999999999|0.0878475|0.4|0.0007937820924862|0.0415985871593749|eficaz
+485|6079|1548323330385596416|@a2009py https://t.co/bgWjdlueH8|2702146094|2022-07-16T15:07:03.000Z|@a2009py https://t.co/bgWjdlueH8|0|0|39656497|2022-07-16 00:40:52+00:00|1548105350494031873|Que locaaa https://t.co/4R9Br6h5Ar|1|0|[0.19920412, 0.573611, 0.22718494]|0.19920412|0.573611|0.22718494|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|eficaz
+486|6079|1548323278757851137|@GuardiaDroguin https://t.co/bgWjdlueH8|2702146094|2022-07-16T15:06:50.000Z|@GuardiaDroguin https://t.co/bgWjdlueH8|1|0|1509214553179107329|2022-07-16 01:54:53+00:00|1548123976337002496|Pelotudez en su máxima expresión. https://t.co/5ZJS2E9MMU|1|0|[0.19920412, 0.573611, 0.22718494]|0.19920412|0.573611|0.22718494|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|no eficaz
+487|6079|1548323231815200774|@jessi_kass https://t.co/bgWjdlueH8|2702146094|2022-07-16T15:06:39.000Z|@jessi_kass https://t.co/bgWjdlueH8|1|0|969286158|2022-07-16 02:05:58+00:00|1548126764995452929|Tantos años de estudio, tanto esfuerzo para que te griten asesino... una vergüenza esta gente ignorante, prepotente y maleducada... https://t.co/oUi6Hr5Zsh|3|1|[0.19920412, 0.573611, 0.22718494]|0.19920412|0.573611|0.22718494|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|eficaz
+497|6079|1548326782075473921|@molihua_jaz @fascarza Y si. https://t.co/bgWjdlueH8|2702146094|2022-07-16T15:20:46.000Z|@molihua_jaz @fascarza Y si. https://t.co/bgWjdlueH8|0|0|336017636|2022-07-16 12:36:25+00:00|1548285424652537860|"@fascarza Nde tavy...
+La voz se me hace conocida. No puede ser que se instaló acá esa señora."|1|0|[0.16808811, 0.74669194, 0.08521984]|0.16808811|0.74669194|0.08521984|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|no eficaz
+499|7114|1548408087047901185|@QueenofAudio @ADissident3 @LindaJEdge The OP has zero evidence. They did not publish Dr. Fauci’s paper. https://t.co/Q1doTfratc|773583307628052480|2022-07-16T20:43:50.000Z|@QueenofAudio @ADissident3 @LindaJEdge The OP has zero evidence. They did not publish Dr. Fauci’s paper. https://t.co/Q1doTfratc|1|0|3139076467|2022-07-16 13:35:55+00:00|1548300399626440706|@HamstersRFunny @ADissident3 @LindaJEdge This article has zero evidence of what they are claiming. They sourced other article and not a single paper from fauci that year|2|0|[0.6847089, 0.29961652, 0.015674625]|0.6847089|0.29961652|0.015674625|0.0326504983910211|0.1264069264069263|0.057399390732724|0.1207090034761948|0.07882608423947|-0.0791685185185185|-0.1025251262626262|-0.0294400793650793|-0.1715674603174602|-0.1827833333333333|0.4285714285714285|0.0016284546271895|0.0041340916308023|eficaz
+507|6079|1548323749845278729|@leroytorner @MinPublicoPy @msaludpy https://t.co/bgWjdlueH8|2702146094|2022-07-16T15:08:43.000Z|@leroytorner @MinPublicoPy @msaludpy https://t.co/bgWjdlueH8|0|0|41591441|2022-07-16 14:39:40+00:00|1548316439286652933|La @MinPublicoPy y el @msaludpy deberían actuar urgentemente y sacar de circulación a esta gente. Los anticiencia son un peligro en cualquier lugar. https://t.co/iVRAEP1eFP|3|1|[0.16960071, 0.6296353, 0.20076396]|0.16960071|0.6296353|0.20076396|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|no eficaz
+508|6079|1548323067826298883|@jjaraujoc https://t.co/bgWjdlueH8|2702146094|2022-07-16T15:06:00.000Z|@jjaraujoc https://t.co/bgWjdlueH8|0|0|303270949|2022-07-16 14:44:52+00:00|1548317750421889024|Parece Moria Casán https://t.co/mdtMD3WOyM|0|0|[0.19920412, 0.573611, 0.22718494]|0.19920412|0.573611|0.22718494|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|no eficaz
+512|343|1548390934135508994|"@ela_hau @Sharky_vs_Evil @TauntonHeat @KarenJukes2 @mancmenace1 @whykeepitup @catvaxlax @maggiemay_313 @VikiLovesFACS @liizliime @Zippidydoodaah1 @yeahnaa333 @JasmineOughton @perfectlyimpish @DrJamesOlsson So, you've got nothing to back up your bogus claim, got it.
+
+Instead you tell me to read up on a well documented liar and grifter. Peter McCullough spews lies every time he opens his mouth. 
+
+https://t.co/2Htfys8WAU"|1433554491928834051|2022-07-16T19:35:41.000Z|"@ela_hau @Sharky_vs_Evil @TauntonHeat @KarenJukes2 @mancmenace1 @whykeepitup @catvaxlax @maggiemay_313 @VikiLovesFACS @liizliime @Zippidydoodaah1 @yeahnaa333 @JasmineOughton @perfectlyimpish @DrJamesOlsson So, you've got nothing to back up your bogus claim, got it.
+
+Instead you tell me to read up on a well documented liar and grifter. Peter McCullough spews lies every time he opens his mouth. 
+
+https://t.co/2Htfys8WAU"|2|0|784578629032443904|2022-07-16 19:27:55+00:00|1548388983226306561|@Truth_in_Number @Sharky_vs_Evil @TauntonHeat @KarenJukes2 @mancmenace1 @whykeepitup @catvaxlax @maggiemay_313 @VikiLovesFACS @liizliime @Zippidydoodaah1 @yeahnaa333 @JasmineOughton @perfectlyimpish @DrJamesOlsson Go research Dr. Peter McCullough. You’ll easily find his discussions about this|1|0|[0.9408002, 0.054765843, 0.0044338987]|0.9408002|0.054765843|0.0044338987|0.0765497143043061|0.1115257609101505|0.0788393621689006|0.0600082296544775|0.0932651381001977|-0.0458430970223142|-0.0696383607507688|0.0037173210424106|-0.0220924133691358|-0.0502246366017868|0.32|0.0003753117993868|0.0007995803747861|eficaz
+513|3599|1548413968535789568|@helen_of_roy @tkdylan https://t.co/miiq0nDcN0|1230858194181918720|2022-07-16T21:07:12.000Z|@helen_of_roy @tkdylan https://t.co/miiq0nDcN0|0|0|1291394669184724993|2022-07-16 21:02:07+00:00|1548412686219628545|the most insane part of this isn’t that the govt-media machine lied to her, but that despite the lie, OP still feels compelled to demonstrate fealty https://t.co/jPHW7zLkxU|35|7|[0.17743011, 0.61030036, 0.21226953]|0.17743011|0.61030036|0.21226953|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|eficaz
+514|1948|1548539168594305024|@Paggles @srsfaith @cntreanor @khanaftab9003 @juliastmi @mskathleenquinn https://t.co/S1DeQVDelz You're intentionally lying about what statistics mean.|1069944698163335169|2022-07-17T05:24:42.000Z|@Paggles @srsfaith @cntreanor @khanaftab9003 @juliastmi @mskathleenquinn https://t.co/S1DeQVDelz You're intentionally lying about what statistics mean.|0|0|26930852|2022-07-17 03:42:37+00:00|1548513478616678400|@srsfaith @cntreanor @khanaftab9003 @juliastmi @mskathleenquinn Nearly 95% of people dying in australia are fully jabbed. You have been conned|13|0|[0.7745289, 0.21349418, 0.011976802]|0.7745289|0.21349418|0.011976802|0.1740049313138428|0.1388201320132013|0.0962732919254658|0.0488671274961596|0.1385463984425697|-0.4942466666666667|-0.3223764285714285|-0.3729791666666667|-0.2340954545454545|-0.2410225|0.2222222222222222|0.0023087769256336|0.0114884088776058|no eficaz
+521|8308|1548690726292279297|"None of them shared the entire post, only screenshots.  Lead Stories is my favorite b/c the guy gets everything wrong about me.
+
+https://t.co/r1KxVeYson
+
+https://t.co/nivAqOchRq
+
+https://t.co/k2Xc56fuMz"|1291040702688890881|2022-07-17T15:26:57.000Z|"None of them shared the entire post, only screenshots.  Lead Stories is my favorite b/c the guy gets everything wrong about me.
+
+https://t.co/r1KxVeYson
+
+https://t.co/nivAqOchRq
+
+https://t.co/k2Xc56fuMz"|3|0|1291040702688890881|2022-07-17 15:26:33+00:00|1548690628585963522|"COVID peaked in May 2020.  It died out by the fall.  Most people stopped being at-risk by July 2020.  We have been scammed.  It is time to hold them accountable.
+
+These are the ""fact check"" articles I can find when I announced this.  Major institutions lying."|13|1|[0.54197085, 0.33563283, 0.12239628]|0.54197085|0.33563283|0.12239628|0.0847660504257606|0.1134626797152759|0.0869508631996561|0.0818388983228918|0.0726746905839637|-0.1422611534586534|-0.0441491239524499|0.0082532159659354|-0.0184780039682539|-0.0906894600062247|1.5|0.0002331781578258|0.0035776086770705|eficaz
+532|866|1549071766135476226|@dabird52 @MarcACaputo @GovPritzker @GovRonDeSantis https://t.co/rLjh4VLBx9|1382454919416909825|2022-07-18T16:41:04.000Z|@dabird52 @MarcACaputo @GovPritzker @GovRonDeSantis https://t.co/rLjh4VLBx9|0|0|1436057981016281096|2022-07-18 14:04:59+00:00|1549032489288613890|"@arrie_za @MarcACaputo @GovPritzker @GovRonDeSantis I'm glad you find it amusing.  Now go ahead and let us know how he ""cooked"" the numbers."|2|0|[0.15884142, 0.6505322, 0.19062652]|0.15884142|0.6505322|0.19062652|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|eficaz
+534|2855|1549068749998800899|@GoJoeJoeBlue https://t.co/pWLW1xpx0G. Stop listening to Trump supporters.|23919906|2022-07-18T16:29:04.000Z|@GoJoeJoeBlue https://t.co/pWLW1xpx0G. Stop listening to Trump supporters.|1|0|1344071180936904705|2022-07-18 16:23:18+00:00|1549067295825092610|@shawn1814 Did he not at first say wearing masks was useless and that the corona was less worse than the flu? Then he said corona was natural only to later back peddle and say it could've escaped from a lab. Now you can stop playing like you didn't know this since you follow him so much|0|0|[0.80238193, 0.18669915, 0.010918853]|0.80238193|0.18669915|0.010918853|0.1596999006487054|0.1352034605686461|0.1299518529170527|0.1985569985569985|0.1406686664521785|-0.168327967171717|0.0398539309056956|-0.1105301010101009|0.0947891702741703|0.0682972350230415|1.0|0.0007800388790879|0.0136590855693489|eficaz
+537|5373|1549119150995283968|@Ladylaw31256058 @Randelius @craigbielek @daviddunn177 @tedcruz Yeah, nah. https://t.co/LrqP9IVZ5D|1422285663324446721|2022-07-18T19:49:21.000Z|@Ladylaw31256058 @Randelius @craigbielek @daviddunn177 @tedcruz Yeah, nah. https://t.co/LrqP9IVZ5D|1|0|1400978147198345220|2022-07-18 19:42:55+00:00|1549117531373420544|@Randelius @craigbielek @daviddunn177 @tedcruz He was dishonest about the funding of the NIH.|0|0|[0.2863861, 0.644247, 0.069366984]|0.2863861|0.644247|0.069366984|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|no eficaz
+555|5373|1549457487782346756|"@john_gessert @ianmSC Do your research. 
+Btw...what kind of ""newsletter"" is Burgess in the News? 😂
+https://t.co/aE1b8lWtCp"|570318719|2022-07-19T18:13:47.000Z|"@john_gessert @ianmSC Do your research. 
+Btw...what kind of ""newsletter"" is Burgess in the News? 😂
+https://t.co/aE1b8lWtCp"|0|0|839559379322028034|2022-07-19 17:30:57+00:00|1549446709197037571|@leyles7 @ianmSC It is. And that is that. https://t.co/NagJTMOrAj|0|0|[0.42661035, 0.5087589, 0.06463074]|0.42661035|0.5087589|0.06463074|0.0635811973105155|0.0739896667350373|0.0468673056765078|0.0599117765349301|0.0601860403747195|-0.0099422539682539|0.0128734829059829|0.1658637205387205|0.2088843297491039|-0.0737718805704099|0.4285714285714285|9.423269229618493e-05|0.0145945902383016|eficaz
+556|3174|1549454950438248451|"@JonStarseed2032 @Norlaine Transmission of Covid-19 was already declining BEFORE Ivermectin started being used.  You've also offered no evidence that Ivermectin was widely deployed in Delhi right away.
+
+https://t.co/mZ1dSxHwxo"|55251591|2022-07-19T18:03:42.000Z|"@JonStarseed2032 @Norlaine Transmission of Covid-19 was already declining BEFORE Ivermectin started being used.  You've also offered no evidence that Ivermectin was widely deployed in Delhi right away.
+
+https://t.co/mZ1dSxHwxo"|0|0|1458827563686580224|2022-07-19 17:52:37+00:00|1549452161872011264|"@josephkrengel @Norlaine Yeah you are picking up on the ""smallest state"" bit and think you've won the argument. It was wider than that:
+https://t.co/ZjpTfKmr4W
+
+And don't quote Reuters at me as a reliable ""fact checker"". Absolute fake news merchants."|1|0|[0.6808756, 0.29800534, 0.021119123]|0.6808756|0.29800534|0.021119123|0.1257981267473349|0.1046015241299073|0.0894476149052641|0.1266007848086225|0.0972744010271527|-0.14037822671156|-0.0487470318570318|0.020808117997144|-0.0315703341942837|-0.1510089951334068|0.7777777777777778|0.0002826925715675|0.005422508379735|no eficaz
+557|489|1549499543158415363|"@MarkH_OSU_CMR @RichardHStevens @WriteChrisWrite @MegOverman What's going on is that pundits, who rely on anger/suspicion for ratings, work with politicians that offer zero solutions. They make up an enemy, to keep you mad. 
+
+I'm waiting on those reliable sources you've so diligently researched.
+
+https://t.co/DsUZBvYXHf"|23392532|2022-07-19T21:00:54.000Z|"@MarkH_OSU_CMR @RichardHStevens @WriteChrisWrite @MegOverman What's going on is that pundits, who rely on anger/suspicion for ratings, work with politicians that offer zero solutions. They make up an enemy, to keep you mad. 
+
+I'm waiting on those reliable sources you've so diligently researched.
+
+https://t.co/DsUZBvYXHf"|0|0|1521709763616202753|2022-07-19 20:32:40+00:00|1549492438976368642|@labenson27 @RichardHStevens @WriteChrisWrite @MegOverman Explain young people developing heart disease, blood clots, &amp; SADS. Explain to me why nearly a 1000 professional athletes have died world wide the last 2 years &amp; why now even HS kids need an EKG to play sports. Keep your head in the sand if you want, but something's going on.|0|0|[0.80756414, 0.17656372, 0.015872223]|0.80756414|0.17656372|0.015872223|0.1026554886074895|0.1120140189522166|0.1071141615743903|0.1138675236458307|0.0810482923039139|-0.0841494812249018|-0.153839898458798|-0.0841700213903743|-0.0764504112554112|-0.1040870544077134|1.0|0.0001744251105719|0.0009925985900014|eficaz
+558|9713|1549528770096365568|@JRNave @bessbell https://t.co/moMu5kDO67|63256067|2022-07-19T22:57:02.000Z|@JRNave @bessbell https://t.co/moMu5kDO67|1|0|63256067|2022-07-19 22:52:13+00:00|1549527558273777665|@JRNave @bessbell Um, wrong|1|0|[0.17743011, 0.61030036, 0.21226953]|0.17743011|0.61030036|0.21226953|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|no eficaz
+559|1886|1549547027553460225|@CoreysName @DelanoSquires Well then the data even here: https://t.co/kXkYXKNmPZ gives a 98.3% survival rate. While  this is no guarantee I will not die from Covid statistically my survival is very likely. Moreover, each variant seems to be less potent than the last.|529559901|2022-07-20T00:09:35.000Z|@CoreysName @DelanoSquires Well then the data even here: https://t.co/kXkYXKNmPZ gives a 98.3% survival rate. While  this is no guarantee I will not die from Covid statistically my survival is very likely. Moreover, each variant seems to be less potent than the last.|0|0|170004927|2022-07-19 23:44:26+00:00|1549540699967725568|@DelanoSquires We are years out from the start of the pandemic. You should be embarrassed for citing nonsense like “survival rate” at this point.|0|0|[0.44538382, 0.46214643, 0.092469744]|0.44538382|0.46214643|0.092469744|0.0967893860415652|0.1285285729023045|0.0732368655782912|0.0877616313985928|0.0954203733909802|-0.2223507368421053|-0.1005954973854974|-0.0832212307692308|-0.2654283172905526|-0.2318877706734866|0.5|0.0004111237107727|0.0068631753081654|eficaz
+564|968|1549751333250555904|@THETMANSAYSSO @majastein1 @NHRebekah92 @johnrich Don't believe what Alex Jones tells you https://t.co/ojiPvAkdUy|379239880|2022-07-20T13:41:25.000Z|@THETMANSAYSSO @majastein1 @NHRebekah92 @johnrich Don't believe what Alex Jones tells you https://t.co/ojiPvAkdUy|1|0|1004176626|2022-07-20 13:30:06+00:00|1549748483506274305|@majastein1 @jdubbs1969 @NHRebekah92 @johnrich Really? How many countries do you know that put their own people in camps? Not tyrannical? Your definition is very different from mine, there’s a reason why that wouldn’t happen in America|0|0|[0.7936776, 0.19606155, 0.010260894]|0.7936776|0.19606155|0.010260894|0.0906432748538011|0.1111111111111111|0.1428571428571428|0.1077694235588972|0.1089494163424124|-0.0372645161290322|-0.1790723404255319|-0.0158274509803921|0.0030232558139534|0.0228428571428571|0.125|0.0003589782398052|0.0064313006633175|eficaz
+565|968|1549751333250555904|@THETMANSAYSSO @majastein1 @NHRebekah92 @johnrich Don't believe what Alex Jones tells you https://t.co/ojiPvAkdUy|379239880|2022-07-20T13:41:25.000Z|@THETMANSAYSSO @majastein1 @NHRebekah92 @johnrich Don't believe what Alex Jones tells you https://t.co/ojiPvAkdUy|1|0|1004176626|2022-07-20 13:30:06+00:00|1549748483506274305|@majastein1 @jdubbs1969 @NHRebekah92 @johnrich Really? How many countries do you know that put their own people in camps? Not tyrannical? Your definition is very different from mine, there’s a reason why that wouldn’t happen in America|0|0|[0.7936776, 0.19606155, 0.010260894]|0.7936776|0.19606155|0.010260894|0.0906432748538011|0.1111111111111111|0.1428571428571428|0.1077694235588972|0.1089494163424124|-0.0372645161290322|-0.1790723404255319|-0.0158274509803921|0.0030232558139534|0.0228428571428571|0.125|0.0003589782398052|0.0064313006633175|eficaz
+566|977|1549751333250555904|@THETMANSAYSSO @majastein1 @NHRebekah92 @johnrich Don't believe what Alex Jones tells you https://t.co/ojiPvAkdUy|379239880|2022-07-20T13:41:25.000Z|@THETMANSAYSSO @majastein1 @NHRebekah92 @johnrich Don't believe what Alex Jones tells you https://t.co/ojiPvAkdUy|1|0|1004176626|2022-07-20 13:30:06+00:00|1549748483506274305|@majastein1 @jdubbs1969 @NHRebekah92 @johnrich Really? How many countries do you know that put their own people in camps? Not tyrannical? Your definition is very different from mine, there’s a reason why that wouldn’t happen in America|0|0|[0.7936776, 0.19606155, 0.010260894]|0.7936776|0.19606155|0.010260894|0.0906432748538011|0.1111111111111111|0.1428571428571428|0.1077694235588972|0.1089494163424124|-0.0372645161290322|-0.1790723404255319|-0.0158274509803921|0.0030232558139534|0.0228428571428571|0.125|0.0003589782398052|0.0064313006633175|eficaz
+567|977|1549751333250555904|@THETMANSAYSSO @majastein1 @NHRebekah92 @johnrich Don't believe what Alex Jones tells you https://t.co/ojiPvAkdUy|379239880|2022-07-20T13:41:25.000Z|@THETMANSAYSSO @majastein1 @NHRebekah92 @johnrich Don't believe what Alex Jones tells you https://t.co/ojiPvAkdUy|1|0|1004176626|2022-07-20 13:30:06+00:00|1549748483506274305|@majastein1 @jdubbs1969 @NHRebekah92 @johnrich Really? How many countries do you know that put their own people in camps? Not tyrannical? Your definition is very different from mine, there’s a reason why that wouldn’t happen in America|0|0|[0.7936776, 0.19606155, 0.010260894]|0.7936776|0.19606155|0.010260894|0.0906432748538011|0.1111111111111111|0.1428571428571428|0.1077694235588972|0.1089494163424124|-0.0372645161290322|-0.1790723404255319|-0.0158274509803921|0.0030232558139534|0.0228428571428571|0.125|0.0003589782398052|0.0064313006633175|eficaz
